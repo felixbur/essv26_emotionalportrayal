@@ -1,0 +1,519 @@
+file,start,end,speaker,gender,age,birth_year,duration,emotion,text
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:00:05.474000,0 days 00:00:08.766000,M_26,male,34,1991,3.292,unknown,"Das ist jetzt sehr schwierig, weil ich mich an sehr, sehr wenig aus meiner Kindheit erinnere."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:00:09.474000,0 days 00:00:11.518000,M_26,male,34,1991,2.044,unknown,"Leider. Jugend wäre schon einfacher, aber Kindheit."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:00:29.282000,0 days 00:00:31.422000,M_26,male,34,1991,2.14,unknown,"vom Hort aus, also bis..."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:00:38.946000,0 days 00:00:45.086000,M_26,male,34,1991,6.14,unknown,"Da war ich noch in Rösten auf der Schule, da bin ich nur bis zur dritten Klasse gewesen, deswegen muss es zweite oder dritte Klasse gewesen sein, vermutlich dritte."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:00:51.330000,0 days 00:00:53.566000,M_26,male,34,1991,2.236,unknown,Am Kulquitzer See in Leipzig.
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:00:55.618000,0 days 00:00:58.270000,M_26,male,34,1991,2.652,unknown,"Auch ein Ferienlager, könnte man sagen."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:01:11.042000,0 days 00:01:15.230000,M_26,male,34,1991,4.188,unknown,"Da es ein bisschen warm ist, also kann man gut baden gehen dort."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:01:19.650000,0 days 00:01:23.582000,M_26,male,34,1991,3.932,unknown,"professionell tauchen war, weil dort am Kugwitzer See absichtlich einen"
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:01:24.610000,0 days 00:01:27.230000,M_26,male,34,1991,2.62,unknown,"Flugzeug versenkt wurde, zu dem man hin..."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:01:27.618000,0 days 00:01:31.646000,M_26,male,34,1991,4.028,unknown,kann das haben wir nicht gemacht wir sind nur mit anzug und neoprienanzug und
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:01:32.802000,0 days 00:01:34.974000,M_26,male,34,1991,2.172,unknown,Sogar auch mit...
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:01:41.218000,0 days 00:01:45.598000,M_26,male,34,1991,4.38,unknown,"dass ich sonst noch nie so tief war, vielleicht auch 20 Meter vielleicht, darum müsste ich jetzt lügen, weiß ich nicht genau."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:01:47.170000,0 days 00:01:50.014000,M_26,male,34,1991,2.844,unknown,Daran kann ich mich erinnern auf jeden Fall. Das war eigentlich ziemlich cool. Aber...
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:01:50.242000,0 days 00:01:52.606000,M_26,male,34,1991,2.364,unknown,"Wie gesagt, habe ich es seitdem nie wieder gemacht, selbst."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:02:05.282000,0 days 00:02:09.662000,M_26,male,34,1991,4.38,unknown,"Also an einem Abend gab es Nudeln irgendwie und die Nudeln übrig geblieben sind, am nächsten Morgen gab es mit Zucker."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:02:10.210000,0 days 00:02:16.158000,M_26,male,34,1991,5.948,unknown,"Das habe ich, glaube ich, noch nie wieder in meinem Leben gemacht und ich würde es auch nicht machen, weil ich das sehr seltsam finde. Aber daran kann ich mich erinnern, vermutlich, weil das so seltsam war."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:02:18.626000,0 days 00:02:26.238000,M_26,male,34,1991,7.612,unknown,"dass an dem Abend, wahrscheinlich dann nachdem es die Nudeln gab, auch so ein bisschen Musik gemacht wurde und getanzt wurde und ich früher..."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:02:26.338000,0 days 00:02:28.670000,M_26,male,34,1991,2.332,unknown,"extreme Probleme damit hatte, äh..."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:02:28.770000,0 days 00:02:31.454000,M_26,male,34,1991,2.684,unknown,"körperliche Bewegungen auszuführen, die nichts mit Sport zu tun hatten."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:02:32.322000,0 days 00:02:35.006000,M_26,male,34,1991,2.684,unknown,"Also mit klassischem Sport im Sinne von Fußball, weil ich Fußball gespielt habe."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:02:35.234000,0 days 00:02:37.694000,M_26,male,34,1991,2.46,unknown,"Und es mir da sehr, sehr unangenehm war und ich nie..."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:02:49.346000,0 days 00:02:51.518000,M_26,male,34,1991,2.172,unknown,"auch sehr schade eigentlich ist, weil..."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:02:52.738000,0 days 00:02:56.350000,M_26,male,34,1991,3.612,unknown,"dann kann man halt nicht mitmachen, wenn man nur an der Seite sitzt und sich denkt so."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:03:00.578000,0 days 00:03:03.678000,M_26,male,34,1991,3.1,unknown,"Ja, das heißt, es ist nicht wirklich so eine Geschichte,"
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:03:06.402000,0 days 00:03:08.478000,M_26,male,34,1991,2.076,unknown,"könnte das noch drum herumspinnen, aber..."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:03:08.802000,0 days 00:03:11.390000,M_26,male,34,1991,2.588,unknown,"Bleib da lieber bei der Wahrheit und dem, was ich weiß."
+./data/neda/data/G_1991_M_26_st.wav,0 days 00:03:14.178000,0 days 00:03:20.222000,M_26,male,34,1991,6.044,unknown,"Aber es wäre natürlich vielleicht schöner verlaufen, wenn man da getanzt hätte und dann hätte man darüber jemanden kennengelernt und was weiß ich."
+./data/neda/data/G_1992_F_13_st.wav,0 days 00:00:06.370000,0 days 00:00:08.766000,F_13,female,33,1992,2.396,unknown,sind wir einmal als
+./data/neda/data/G_1992_F_13_st.wav,0 days 00:00:08.962000,0 days 00:00:14.110000,F_13,female,33,1992,5.148,unknown,"Sommerurlaub mit der ganzen Familie, also mit meinen Eltern und meinen"
+./data/neda/data/G_1992_F_13_st.wav,0 days 00:00:21.218000,0 days 00:00:30.910000,F_13,female,33,1992,9.692,unknown,"Genau, und neben uns war auch noch eine andere Familie, die mit uns sehr gut befreundet war, ist auch noch mitgekommen und wir haben uns ein Ferienhaus sehr nah am Strand gemietet."
+./data/neda/data/G_1992_F_13_st.wav,0 days 00:00:32.034000,0 days 00:00:34.494000,F_13,female,33,1992,2.46,unknown,Dieses Ferienhaus hatte sogar einen...
+./data/neda/data/G_1992_F_13_st.wav,0 days 00:00:34.626000,0 days 00:00:40.094000,F_13,female,33,1992,5.468,unknown,"und eine Sauna und einen Whirlpool, was wir als Kinder natürlich super cool fanden."
+./data/neda/data/G_1992_F_13_st.wav,0 days 00:00:40.194000,0 days 00:00:45.630000,F_13,female,33,1992,5.436,unknown,"Vor allem, weil es jetzt auch draußen nicht jeden Tag so warm war, dass wir ins Meer gehen konnten, konnten wir trotzdem..."
+./data/neda/data/G_1992_F_13_st.wav,0 days 00:00:52.354000,0 days 00:00:54.526000,F_13,female,33,1992,2.172,unknown,"Ich glaube, das war der erste Tag."
+./data/neda/data/G_1992_F_13_st.wav,0 days 00:00:57.346000,0 days 00:01:03.294000,F_13,female,33,1992,5.948,unknown,Waren wir ein bisschen übermütig und ich fand das lustig mit meinen Klawatten in den Pool zu springen.
+./data/neda/data/G_1992_F_13_st.wav,0 days 00:01:04.130000,0 days 00:01:09.054000,F_13,female,33,1992,4.924,unknown,Das fand die Mutter von der anderen Familie jetzt nicht so toll und hat mich erst mal...
+./data/neda/data/G_1992_F_13_st.wav,0 days 00:01:10.210000,0 days 00:01:15.582000,F_13,female,33,1992,5.372,unknown,"angemeckert, warum ich das dann mache und dass das den Filter von dem Pool überlastet."
+./data/neda/data/G_1992_F_13_st.wav,0 days 00:01:15.778000,0 days 00:01:21.374000,F_13,female,33,1992,5.596,unknown,"Und ja, ich fand das irgendwie nicht so toll, dass diese fremde Frau mich angemeckert hat."
+./data/neda/data/G_1992_F_13_st.wav,0 days 00:01:27.426000,0 days 00:01:29.822000,F_13,female,33,1992,2.396,unknown,"Genau, aber sonst war der Urlaub eigentlich ganz schön. Wir haben..."
+./data/neda/data/G_1992_F_13_st.wav,0 days 00:01:32.226000,0 days 00:01:35.934000,F_13,female,33,1992,3.708,unknown,gekauft und sind dann an den strand was an der nordsee war
+./data/neda/data/G_1992_F_13_st.wav,0 days 00:01:37.506000,0 days 00:01:40.670000,F_13,female,33,1992,3.164,unknown,sind wir dann an den Strand gegangen und haben die alle zusammen fliegen lassen.
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:00:05.602000,0 days 00:00:08.190000,F_19,female,29,1996,2.588,unknown,meine Geschichte bedeutet.
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:00:08.930000,0 days 00:00:11.678000,F_19,female,29,1996,2.748,unknown,wie ich das erste Mal meine Menstruation bekam.
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:00:22.946000,0 days 00:00:25.182000,F_19,female,29,1996,2.236,unknown,Wir sind meine Mutter.
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:00:25.378000,0 days 00:00:27.646000,F_19,female,29,1996,2.268,unknown,"meine Schwester, meine Zwillingsschwester und ich,"
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:00:36.866000,0 days 00:00:39.902000,F_19,female,29,1996,3.036,unknown,"ein Junge und ein Mädchen, beide ein bisschen jünger als wir."
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:00:53.602000,0 days 00:00:55.646000,F_19,female,29,1996,2.044,unknown,wir uns auf die sechste Klasse vorbereiten.
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:00:58.114000,0 days 00:01:00.926000,F_19,female,29,1996,2.8120000000000003,unknown,"um die Zeit gut zu verbringen, sind wir."
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:01:13.282000,0 days 00:01:16.798000,F_19,female,29,1996,3.516,unknown,"nicht viel Geld hatten, haben wir oft solche Low-Budget."
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:01:20.962000,0 days 00:01:24.830000,F_19,female,29,1996,3.868,unknown,Zelte eingeparkt und sind mit Autos zu einem Strand gefahren.
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:01:25.186000,0 days 00:01:27.454000,F_19,female,29,1996,2.268,unknown,der etwas abseits ist und...
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:01:28.802000,0 days 00:01:32.542000,F_19,female,29,1996,3.74,unknown,so viele Leute sind und haben dort unsere Zelte aufgebaut und
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:01:39.170000,0 days 00:01:42.270000,F_19,female,29,1996,3.1,unknown,"haben Skat gelernt, in diesem Urlaub haben wir Skat gelernt."
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:01:45.410000,0 days 00:01:48.094000,F_19,female,29,1996,2.684,unknown,die ganze Zeit mit den beiden anderen Kindern Skat gespielt.
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:01:55.650000,0 days 00:01:57.758000,F_19,female,29,1996,2.108,unknown,Lagerfeuer haben wir bestimmt auch gemacht.
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:02:16.482000,0 days 00:02:18.622000,F_19,female,29,1996,2.14,unknown,Und das ging so drei Morgende.
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:02:29.922000,0 days 00:02:33.118000,F_19,female,29,1996,3.196,unknown,weil die nächste Toilette war ungefähr einen Kilometer entfernt.
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:02:41.186000,0 days 00:02:44.190000,F_19,female,29,1996,3.004,unknown,mit der Menstruation. Ich hatte mich nämlich eigentlich darauf gefreut.
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:02:46.146000,0 days 00:02:51.486000,F_19,female,29,1996,5.34,unknown,"Ich weiß gar nicht warum. Wahrscheinlich hat meine Mutter mir erzählt, dass das was Gutes ist und nichts Schlechtes und nichts, wovor man Angst haben muss."
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:02:57.026000,0 days 00:03:01.790000,F_19,female,29,1996,4.764,unknown,"Ich habe mich gefragt, wann sie endlich kommt und dann fand ich es doch nicht so gut, dass sie dann kam."
+./data/neda/data/G_1996_F_19_st.wav,0 days 00:03:10.434000,0 days 00:03:12.830000,F_19,female,29,1996,2.396,unknown,immer nur ein paar Stunden am Tag und dann ging es und...
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:00:02.146000,0 days 00:00:06.878000,M_22,male,29,1996,4.732,unknown,"Das ist eine etwas ambivalente Geschichte, die ist eigentlich ein bisschen traurig, aber auch ein bisschen lustig."
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:00:12.738000,0 days 00:00:14.878000,M_22,male,29,1996,2.14,unknown,auf ein Ferienlager geschickt.
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:00:22.306000,0 days 00:00:24.510000,M_22,male,29,1996,2.204,unknown,"über einen Träger, den roten Baum, sozusagen eine..."
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:00:28.514000,0 days 00:00:31.646000,M_22,male,29,1996,3.132,unknown,Und es sollte nach Eubin im Zittauer Gebirge gehen.
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:00:33.570000,0 days 00:00:37.694000,M_22,male,29,1996,4.124,unknown,"Offensichtlich habe ich da auch freiwillig zugestimmt, sonst hätte das meine Mutter nicht mit mir gemacht."
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:00:45.794000,0 days 00:00:48.478000,M_22,male,29,1996,2.684,unknown,irgendwie in den ersten Tagen total unglücklich dort war.
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:00:53.826000,0 days 00:00:56.126000,M_22,male,29,1996,2.3,unknown,Postkarten nach Hause schicken sollten aus dem Urlaub?
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:01:02.914000,0 days 00:01:06.334000,M_22,male,29,1996,3.42,unknown,Daran kann ich mich nicht direkt erinnern. Muss ich wohl eine Postkarte geschrieben haben?
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:01:08.546000,0 days 00:01:14.590000,M_22,male,29,1996,6.044,unknown,"du liebe Eltern, liebe Mama, hier ist es ganz furchtbar, es ist alles ganz scheiße und schrecklich, ich will wieder nach Hause."
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:01:17.922000,0 days 00:01:21.374000,M_22,male,29,1996,3.452,unknown,"Und dann hat mich der Betreuer abends, als wir geschlafen haben,"
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:01:22.306000,0 days 00:01:24.862000,M_22,male,29,1996,2.556,unknown,kurz mit rausgenommen auf die Treppe.
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:01:25.986000,0 days 00:01:29.790000,M_22,male,29,1996,3.804,unknown,"Er hatte sich die Karte durchgelesen und mich gefragt, ob er wirklich..."
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:01:30.018000,0 days 00:01:34.622000,M_22,male,29,1996,4.604,unknown,"ob ich wirklich die Karte abschicken möchte, ob es denn wirklich so schlimm ist und was denn so schlimm sei."
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:01:42.242000,0 days 00:01:44.350000,M_22,male,29,1996,2.108,unknown,"Was ich genau da schlimm fand, das..."
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:01:44.546000,0 days 00:01:47.838000,M_22,male,29,1996,3.292,unknown,Daran kann ich mich überhaupt nicht erinnern. Ich habe da keine traumatischen Erlebnisse drin.
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:01:48.258000,0 days 00:01:51.230000,M_22,male,29,1996,2.972,unknown,"Die Betreuer waren relativ jung und ich glaube, die waren auch bestimmt lieb."
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:01:56.514000,0 days 00:01:59.326000,M_22,male,29,1996,2.8120000000000003,unknown,"Es war eigentlich nichts Schlimmes, aber ich hatte sogar einen Freund mit."
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:02:06.210000,0 days 00:02:12.126000,M_22,male,29,1996,5.916,unknown,"Betreuung auch ausgelassen habe. Das wäre auch ganz furchtbar gewesen, hätte ich die Karte abgeschickt. Hätte sich meine Mutter ganz viel Gedanken gemacht."
+./data/neda/data/G_1996_M_22_st.wav,0 days 00:02:12.834000,0 days 00:02:18.334000,M_22,male,29,1996,5.5,unknown,"Hätte, wäre am Ende noch so, sogar am nächsten Tag gleich hingekommen und hätte mich abgeholt, irgendwie völlig aufgelöst."
+./data/neda/data/G_1997_M_17_st.wav,0 days 00:00:02.242000,0 days 00:00:05.246000,M_17,male,28,1997,3.004,unknown,"Also eine Geschichte, die mir tatsächlich einfällt, ist..."
+./data/neda/data/G_1997_M_17_st.wav,0 days 00:00:06.402000,0 days 00:00:09.726000,M_17,male,28,1997,3.324,unknown,als ich vor langer Zeit mal auf Amrum Sommerurlaub gemacht habe.
+./data/neda/data/G_1997_M_17_st.wav,0 days 00:00:12.738000,0 days 00:00:15.742000,M_17,male,28,1997,3.004,unknown,und mit meiner Schwester zusammen Austern gefischt habe.
+./data/neda/data/G_1997_M_17_st.wav,0 days 00:00:17.954000,0 days 00:00:20.446000,M_17,male,28,1997,2.492,unknown,"und haben dann versucht, Austern aus dem Meer zu fischen."
+./data/neda/data/G_1997_M_17_st.wav,0 days 00:00:23.746000,0 days 00:00:26.718000,M_17,male,28,1997,2.972,unknown,hatten auf jeden Fall einen heilen Spaß und hatten auch irgendwie am Ende des Tages
+./data/neda/data/G_1997_M_17_st.wav,0 days 00:00:27.266000,0 days 00:00:29.790000,M_17,male,28,1997,2.524,unknown,den ganzen Kescher voller Austern erfolgreich geangelt.
+./data/neda/data/G_1997_M_17_st.wav,0 days 00:00:34.818000,0 days 00:00:40.158000,M_17,male,28,1997,5.34,unknown,"und sind dann zu einem Restaurant gelaufen und haben dort gefragt, ob die unsere Austern abkaufen würden."
+./data/neda/data/G_1997_M_17_st.wav,0 days 00:00:44.322000,0 days 00:00:47.422000,M_17,male,28,1997,3.1,unknown,"Ich glaube, sie haben behauptet, sie dürfen nicht, aber ich glaube, sie wollten auch nicht."
+./data/neda/data/G_1997_M_17_st.wav,0 days 00:00:57.666000,0 days 00:01:00.222000,M_17,male,28,1997,2.556,unknown,"Ich weiß auch gar nicht, was wir dann nachher mit den Austern gemacht haben."
+./data/neda/data/G_1997_M_17_st.wav,0 days 00:01:02.050000,0 days 00:01:04.734000,M_17,male,28,1997,2.684,unknown,"Ich glaube, wir haben sie tatsächlich wieder zurück ins Meer gebracht."
+./data/neda/data/G_1997_M_17_st.wav,0 days 00:01:05.506000,0 days 00:01:09.118000,M_17,male,28,1997,3.612,unknown,"weil wir irgendwie, also wir konnten uns auf jeden Fall nicht vorstellen, die selbst zu essen."
+./data/neda/data/G_1997_M_17_st.wav,0 days 00:01:10.530000,0 days 00:01:12.990000,M_17,male,28,1997,2.46,unknown,"Und zwar eben nicht erfolgreich, die zu verkaufen."
+./data/neda/data/G_1997_M_17_st.wav,0 days 00:01:15.042000,0 days 00:01:17.182000,M_17,male,28,1997,2.14,unknown,"Ja, ich glaube, wir haben die einfach zurück ins Meer gepackt."
+./data/neda/data/G_1997_M_29_st.wav,0 days 00:00:04.258000,0 days 00:00:06.846000,M_29,male,28,1997,2.588,unknown,während meiner Sommerferien in der Kindheit.
+./data/neda/data/G_1997_M_29_st.wav,0 days 00:00:09.442000,0 days 00:00:13.694000,M_29,male,28,1997,4.252,unknown,"Genau, also ich war mit meinen Eltern im Urlaub."
+./data/neda/data/G_1997_M_29_st.wav,0 days 00:00:18.914000,0 days 00:00:23.166000,M_29,male,28,1997,4.252,unknown,Da sind wir viel am Strand gewesen und da war ich viel schwimmen.
+./data/neda/data/G_1997_M_29_st.wav,0 days 00:00:23.522000,0 days 00:00:28.446000,M_29,male,28,1997,4.924,unknown,Wir haben noch eine Fahrradtour gemacht und waren viel in der Natur.
+./data/neda/data/G_1997_M_29_st.wav,0 days 00:00:28.642000,0 days 00:00:31.614000,M_29,male,28,1997,2.972,unknown,Wir haben uns auch ein bisschen...
+./data/neda/data/G_1997_M_29_st.wav,0 days 00:00:31.938000,0 days 00:00:33.950000,M_29,male,28,1997,2.012,unknown,"Museen angeschaut, also ein"
+./data/neda/data/G_1997_M_29_st.wav,0 days 00:00:34.114000,0 days 00:00:44.286000,M_29,male,28,1997,10.172,unknown,"kulturellen Urlaub gemacht daraus und ich habe zwei Geschwister, mit denen habe ich sehr viel gespielt, die waren auch eigentlich fast jeden Tag am Strand und dadurch haben wir"
+./data/neda/data/G_1997_M_29_st.wav,0 days 00:00:46.786000,0 days 00:00:49.502000,M_29,male,28,1997,2.716,unknown,sehr viel Zeit miteinander verbracht.
+./data/neda/data/G_1997_M_29_st.wav,0 days 00:00:51.746000,0 days 00:00:54.462000,M_29,male,28,1997,2.716,unknown,Abends haben wir dann immer zusammen Essen gekocht.
+./data/neda/data/G_1997_M_29_st.wav,0 days 00:00:54.786000,0 days 00:00:56.798000,M_29,male,28,1997,2.012,unknown,Wir hatten auch noch einen eigenen Pool.
+./data/neda/data/G_1997_M_29_st.wav,0 days 00:00:57.058000,0 days 00:01:01.662000,M_29,male,28,1997,4.604,unknown,"Das heißt, auch abends waren wir immer noch aktiv und zusammen und haben..."
+./data/neda/data/G_1997_M_29_st.wav,0 days 00:01:01.954000,0 days 00:01:05.278000,M_29,male,28,1997,3.324,unknown,den ganzen Tag halt die Zeit zusammen verbracht.
+./data/neda/data/G_1998_F_09_st.wav,0 days 00:00:11.522000,0 days 00:00:14.878000,F_09,female,27,1998,3.356,unknown,und wir einen Ausflug gemacht haben.
+./data/neda/data/G_1998_F_09_st.wav,0 days 00:00:24.290000,0 days 00:00:29.374000,F_09,female,27,1998,5.084,unknown,Und wir sind gemeinsam mit den anderen Kindern aus dem Kindergarten in die...
+./data/neda/data/G_1998_F_09_st.wav,0 days 00:00:35.170000,0 days 00:00:37.982000,F_09,female,27,1998,2.8120000000000003,unknown,den ganzen Tag mit verschiedenen...
+./data/neda/data/G_1998_F_09_st.wav,0 days 00:00:50.850000,0 days 00:00:53.342000,F_09,female,27,1998,2.492,unknown,Besonders erinnere ich mich an
+./data/neda/data/G_1998_F_09_st.wav,0 days 00:00:57.826000,0 days 00:01:00.062000,F_09,female,27,1998,2.236,unknown,"ich ein bisschen Angst bekommen habe, wenn ich..."
+./data/neda/data/G_1998_F_09_st.wav,0 days 00:01:04.642000,0 days 00:01:07.454000,F_09,female,27,1998,2.8120000000000003,unknown,Als Abschluss des Ausfluges sind wir...
+./data/neda/data/G_1998_F_09_st.wav,0 days 00:01:09.474000,0 days 00:01:15.038000,F_09,female,27,1998,5.564,unknown,"mit den Gondeln über die Lochmühle gefahren und haben uns nochmal angeschaut, was da unten alles..."
+./data/neda/data/G_1998_F_09_st.wav,0 days 00:01:20.194000,0 days 00:01:22.238000,F_09,female,27,1998,2.044,unknown,Abends sind wir dann wieder nach Hause gefahren.
+./data/neda/data/G_1998_F_09_st.wav,0 days 00:01:22.914000,0 days 00:01:26.238000,F_09,female,27,1998,3.324,unknown,und wurden aus dem Kindergarten abgeholt von unseren Eltern.
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:00:01.026000,0 days 00:00:05.150000,M_06,male,27,1998,4.124,unknown,"In meinen Sommerferien, als ich ein Kind war, vielleicht ungefähr,"
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:00:06.050000,0 days 00:00:11.390000,M_06,male,27,1998,5.34,unknown,"11, 12 Jahre habe ich meine Ferien auf einem Reiterhof verbracht und bin"
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:00:12.962000,0 days 00:00:20.126000,M_06,male,27,1998,7.164,unknown,"Ich bin mit meiner Mutter, habe ich da Urlaub gemacht und ich bin den ganzen Tag, habe ich an Reitkursen teilgenommen und bin mit anderen..."
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:00:22.658000,0 days 00:00:25.886000,M_06,male,27,1998,3.228,unknown,über die Felder geritten und das war total schön.
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:00:25.986000,0 days 00:00:29.758000,M_06,male,27,1998,3.772,unknown,"Und wir haben immer Urlaub in der Natur gemacht, das fand ich auch total schön."
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:00:30.498000,0 days 00:00:32.734000,M_06,male,27,1998,2.236,unknown,Häufig waren auch meine Geschwister dabei.
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:00:33.282000,0 days 00:00:35.326000,M_06,male,27,1998,2.044,unknown,Ich habe drei Brüder und die haben...
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:00:35.618000,0 days 00:00:39.518000,M_06,male,27,1998,3.9,unknown,ihre Hobbys ausgeübt. Wir waren viel schwimmen.
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:00:39.874000,0 days 00:00:44.702000,M_06,male,27,1998,4.828,unknown,und haben viel Sport gemacht oder Unternehmungen waren viel Wandern.
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:00:45.154000,0 days 00:00:49.182000,M_06,male,27,1998,4.028,unknown,"Und das ist total schön, weil ich das mit meiner Familie zusammen gemacht habe."
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:00:51.458000,0 days 00:00:53.470000,M_06,male,27,1998,2.012,unknown,"Genau, wir sind oft ans Wasser gefahren."
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:00:53.570000,0 days 00:00:56.638000,M_06,male,27,1998,3.068,unknown,an die Nordsee oder an die Ostsee und lagen am Strand.
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:00:59.170000,0 days 00:01:03.646000,M_06,male,27,1998,4.476,unknown,"Hörbücher gehört, Hörspiele für Kinder, das haben wir ganz viel gemacht."
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:01:10.722000,0 days 00:01:13.470000,M_06,male,27,1998,2.748,unknown,die ich erinnere. Das war immer die schönste Zeit.
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:01:17.762000,0 days 00:01:21.182000,M_06,male,27,1998,3.42,unknown,"Genau, wir haben häufig die Zeit auch mit Freunden verbracht."
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:01:25.218000,0 days 00:01:29.662000,M_06,male,27,1998,4.444,unknown,"viele verschiedene Dinge unternommen, hatten aber auch ganz viel Zeit für uns und ich habe ganz viel Zeit."
+./data/neda/data/G_1998_M_06_st.wav,0 days 00:01:32.066000,0 days 00:01:35.710000,M_06,male,27,1998,3.644,unknown,"Dinge zu machen, die ich selber gerne mochte, also malen oder eben reiben."
+./data/neda/data/G_1999_F_10_st.wav,0 days 00:00:05.698000,0 days 00:00:11.006000,F_10,female,26,1999,5.308,unknown,Anfang und Ende. Also ich war als Kind einmal mit meinem Bruder und meinem Vater zelten.
+./data/neda/data/G_1999_F_10_st.wav,0 days 00:00:13.634000,0 days 00:00:16.318000,F_10,female,26,1999,2.684,unknown,Und da waren wir auf einem Campingplatz.
+./data/neda/data/G_1999_F_10_st.wav,0 days 00:00:23.586000,0 days 00:00:27.006000,F_10,female,26,1999,3.42,unknown,Wir hatten danach irgendwann Schafe und diese Schafe...
+./data/neda/data/G_1999_F_10_st.wav,0 days 00:00:30.370000,0 days 00:00:33.214000,F_10,female,26,1999,2.844,unknown,Und diese Schafe kam irgendwie aus der gleichen Region.
+./data/neda/data/G_1999_F_10_st.wav,0 days 00:00:33.602000,0 days 00:00:35.966000,F_10,female,26,1999,2.364,unknown,"wie dieser Campingplatz, auf dem wir waren, aber..."
+./data/neda/data/G_1999_F_10_st.wav,0 days 00:00:44.354000,0 days 00:00:47.294000,F_10,female,26,1999,2.94,unknown,"sieben, acht Jahre alt oder so und ich konnte kein Englisch und"
+./data/neda/data/G_1999_F_10_st.wav,0 days 00:00:48.514000,0 days 00:00:52.606000,F_10,female,26,1999,4.092,unknown,"Ich habe versucht, mich mit diesen Mädchen zu verständigen und sie."
+./data/neda/data/G_1999_F_10_st.wav,0 days 00:00:56.610000,0 days 00:00:59.454000,F_10,female,26,1999,2.844,unknown,"Ganz witzig, weil wir irgendwie dachten, es wäre die gleiche Sprache."
+./data/neda/data/G_1999_F_10_st.wav,0 days 00:00:59.906000,0 days 00:01:02.910000,F_10,female,26,1999,3.004,unknown,"das irgendwie tief auf die Reihe bekommen zu haben, zu verstehen, wieso wir uns nicht mehr vertreten."
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:00:01.730000,0 days 00:00:06.046000,M_21,male,25,2000,4.316,unknown,"Also ich bin weit weg vom Rest meiner Familie aufgewachsen. Das heißt,"
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:00:06.594000,0 days 00:00:10.206000,M_21,male,25,2000,3.612,unknown,Es haben eigentlich in meiner Gegend nur meine Eltern und meine Schwestern gelebt.
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:00:11.874000,0 days 00:00:15.678000,M_21,male,25,2000,3.804,unknown,Großeltern zum Beispiel oder meine Onkels und Tanten besuchen wollte.
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:00:15.810000,0 days 00:00:21.662000,M_21,male,25,2000,5.852,unknown,"musste ich dafür weit fahren. Das heißt, das waren entweder so zweieinhalb Stunden mit dem Auto oder dreieinhalb Stunden mit dem Auto."
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:00:21.826000,0 days 00:00:27.774000,M_21,male,25,2000,5.948,unknown,"Aber als ich dann so sechs, sieben war, acht Jahre alt, wollte ich natürlich auch meinen Onkel"
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:00:28.130000,0 days 00:00:31.966000,M_21,male,25,2000,3.836,unknown,"alleine besuchen, der war nur so elf oder zwölf Jahre älter als ich, das spricht"
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:00:32.770000,0 days 00:00:35.486000,M_21,male,25,2000,2.716,unknown,eine große Bruderfigur als eine Onkelfigur.
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:00:35.842000,0 days 00:00:38.430000,M_21,male,25,2000,2.588,unknown,Und dann durfte ich tatsächlich mit...
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:00:39.298000,0 days 00:00:42.814000,M_21,male,25,2000,3.516,unknown,"Ja, glaube ich, das erste Mal alleine Zug fahren."
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:00:42.978000,0 days 00:00:45.406000,M_21,male,25,2000,2.428,unknown,Dafür ist dann meine Mutter an den Schalter gegangen.
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:00:46.914000,0 days 00:00:52.574000,M_21,male,25,2000,5.66,unknown,"Ein Ticket für mich gebucht, der Zug fuhr nach München, das ist die Stadt, in der mein Onkel gewohnt hat damals, durch."
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:00:52.770000,0 days 00:00:56.286000,M_21,male,25,2000,3.516,unknown,"Ich habe für mich eine Bahncard gekauft, ein Erste-Klasse-Ticket."
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:00:56.386000,0 days 00:00:58.590000,M_21,male,25,2000,2.204,unknown,"eine Sitzplatzreservierung,"
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:00:58.850000,0 days 00:01:05.086000,M_21,male,25,2000,6.236,unknown,Und der große Tag war gekommen. Ich durfte mit acht Jahren alleine in den Zug einsteigen. Das war ein Intercity Express.
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:01:07.298000,0 days 00:01:13.598000,M_21,male,25,2000,6.3,unknown,"mich nicht zurechtgefunden habe, wo mein Sitzplatz jetzt ist und auf welchen Sitz ich mich setzen sollte."
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:01:13.794000,0 days 00:01:18.942000,M_21,male,25,2000,5.148,unknown,"Und ich weiß auch noch genau, wie ich zum Schaffner gegangen bin. Das war ein Mann mit etwas längeren Haaren."
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:01:19.906000,0 days 00:01:22.942000,M_21,male,25,2000,3.036,unknown,"Ich glaube keinem Bart, ein bisschen blondiert war er."
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:01:23.106000,0 days 00:01:27.870000,M_21,male,25,2000,4.764,unknown,"Ich habe gesagt, ach, wenn Sie das Schaffner sind, dann soll ich Ihnen von meiner Mama sagen, Sie sollen jetzt auf mich aufpassen."
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:01:29.026000,0 days 00:01:32.318000,M_21,male,25,2000,3.292,unknown,Die Zugfahrt verging dann ganz gut und nach
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:01:32.930000,0 days 00:01:35.070000,M_21,male,25,2000,2.14,unknown,Etwas mehr als einer Stunde der Intercity Explosion.
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:01:35.170000,0 days 00:01:45.278000,M_21,male,25,2000,10.108,unknown,"Intercity ist sehr schnell gefahren, war ich dann auch in München, wo mich mein Onkel am Gleis abgeholt hat. Dann haben wir eine schöne Zeit in München verbracht. Ich habe zum Beispiel den Film Avatar gesehen."
+./data/neda/data/G_2000_M_21_st.wav,0 days 00:01:50.914000,0 days 00:01:54.718000,M_21,male,25,2000,3.804,unknown,"Aber irgendwie haben wir es geschafft, mich ins Kino reinzuschmuggeln und ich habe den Film sehr genossen."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:00:00.450000,0 days 00:00:07.710000,M_27,male,25,2000,7.26,unknown,"Also alles hat begangen, dass wir in den Sommerferien immer für drei Wochen an die Ostsee gefahren sind."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:00:07.970000,0 days 00:00:11.582000,M_27,male,25,2000,3.612,unknown,"Die Ostsee hat ja viele verschiedene Bereiche, die man da..."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:00:11.938000,0 days 00:00:14.558000,M_27,male,25,2000,2.62,unknown,reisen könnte. Wir sind immer an den DARS gefahren.
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:00:15.458000,0 days 00:00:21.886000,M_27,male,25,2000,6.428,unknown,"aber war nicht auf dem DARS selber, sondern in einem Dörfchen, was davor lag. Das hieß Bottstedt."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:00:22.626000,0 days 00:00:28.766000,M_27,male,25,2000,6.14,unknown,"Und in diesem Dörfchen gab es nochmal einen Waldweg, der richtig in einen Forst reingeführt hat."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:00:28.994000,0 days 00:00:31.806000,M_27,male,25,2000,2.8120000000000003,unknown,Und da war eine große Ferienunterkunft.
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:00:32.418000,0 days 00:00:38.622000,M_27,male,25,2000,6.204,unknown,"Und bei dieser Ferienunterkunft hatten wir immer das größte Bungalow, was es da gab. Also es war wirklich immer nur..."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:00:38.978000,0 days 00:00:46.398000,M_27,male,25,2000,7.42,unknown,"Ein flaches Bungalow, nur eine Etage, kein Haus oder sonstiges. Aber halt vollkommen im Wald mit einem riesigen Grundstück daneben."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:00:47.746000,0 days 00:00:52.670000,M_27,male,25,2000,4.924,unknown,"Und das haben wir für viele Jahre immer regelmäßig gebucht, immer für diese drei Wochen."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:00:52.898000,0 days 00:00:55.838000,M_27,male,25,2000,2.94,unknown,Und das ist so zu unserem Familien...
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:00:56.546000,0 days 00:01:01.150000,M_27,male,25,2000,4.604,unknown,"Ausflug geworden zu unserem Familienhaus, wenn wir Urlaub gemacht haben."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:01:02.306000,0 days 00:01:04.446000,M_27,male,25,2000,2.14,unknown,"Da war immer ein normaler Tag, dass wir da..."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:01:04.770000,0 days 00:01:08.318000,M_27,male,25,2000,3.548,unknown,"ganz entspannt, immer bis um 10 Uhr geschlafen haben. Dann haben wir alle..."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:01:08.482000,0 days 00:01:10.942000,M_27,male,25,2000,2.46,unknown,vorne auf der Terrasse zusammen gefrühstückt.
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:01:11.682000,0 days 00:01:15.134000,M_27,male,25,2000,3.452,unknown,vielleicht schon mal ein paar Spiele gespielt oder sonstiges.
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:01:15.298000,0 days 00:01:22.494000,M_27,male,25,2000,7.196,unknown,"Danach haben wir uns alle fertig gemacht, haben alle möglichen Brötchen oder anderes Essen, was wir für den Tag brauchten."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:01:22.626000,0 days 00:01:26.046000,M_27,male,25,2000,3.42,unknown,geschmiert und sind dann mit den Fahrrädern
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:01:26.466000,0 days 00:01:33.118000,M_27,male,25,2000,6.652,unknown,"von Bottstedt über die Landstraße. Das waren mindestens immer so anderthalb Stunden, die wir da gefahren sind."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:01:36.770000,0 days 00:01:40.158000,M_27,male,25,2000,3.388,unknown,"also nach Zingst, das ist so die größte Stadt da auf dem DARS."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:01:40.322000,0 days 00:01:46.654000,M_27,male,25,2000,6.332,unknown,"Und in Zings dann aber auch nochmal bis zum vollkommenen Stadtrand, bis zu unserem Familienstrand."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:01:50.178000,0 days 00:01:52.350000,M_27,male,25,2000,2.172,unknown,Und da haben wir dann den ganzen Tag immer verbracht.
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:01:54.210000,0 days 00:01:57.950000,M_27,male,25,2000,3.74,unknown,Mittags bis vollkommen abends und sind dann nachts wieder zurückgefahren.
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:01:58.402000,0 days 00:02:05.726000,M_27,male,25,2000,7.324,unknown,"Aber den Tag über waren wir den ganzen Tag baden, haben zusammen Kartenspiele gespielt oder Volleyball gespielt oder..."
+./data/neda/data/G_2000_M_27_st.wav,0 days 00:02:07.426000,0 days 00:02:10.174000,M_27,male,25,2000,2.748,unknown,"Alles mögliche gemacht, genau. Und das waren immer sehr schöne..."
+./data/neda/data/G_2001_F_12_st.wav,0 days 00:00:01.666000,0 days 00:00:10.398000,F_12,female,24,2001,8.732,unknown,"An Sommerferien erinnere ich mich nicht, aber ich habe, als ich jünger war, ein Jahr im Ausland gelebt und daran erinnere ich mich noch sehr gut."
+./data/neda/data/G_2001_F_12_st.wav,0 days 00:00:11.074000,0 days 00:00:13.662000,F_12,female,24,2001,2.588,unknown,"Ich war eigentlich zu jung, um mich dafür zu bewerben."
+./data/neda/data/G_2001_F_12_st.wav,0 days 00:00:14.690000,0 days 00:00:18.302000,F_12,female,24,2001,3.612,unknown,"Aber ich wurde doch genommen, weil es zu wenige Teilnehmer gab."
+./data/neda/data/G_2001_F_12_st.wav,0 days 00:00:18.530000,0 days 00:00:22.718000,F_12,female,24,2001,4.188,unknown,Und habe dann insgesamt zehn Monate an einer Schule in Irland verbracht.
+./data/neda/data/G_2001_F_12_st.wav,0 days 00:00:24.482000,0 days 00:00:28.766000,F_12,female,24,2001,4.284,unknown,einige Ausflügen gemacht. Wir waren in mehreren Erlebnisparks.
+./data/neda/data/G_2001_F_12_st.wav,0 days 00:00:28.866000,0 days 00:00:31.390000,F_12,female,24,2001,2.524,unknown,"Und es gab auch Klassenfahrten, unter anderem nach Rom."
+./data/neda/data/G_2001_F_12_st.wav,0 days 00:00:34.402000,0 days 00:00:38.014000,F_12,female,24,2001,3.612,unknown,Ich hatte eine sehr nette Gastfamilie mit drei Gastgeschwistern.
+./data/neda/data/G_2001_F_12_st.wav,0 days 00:00:38.274000,0 days 00:00:41.694000,F_12,female,24,2001,3.42,unknown,"Mein einer Gastbruder war mit mir im Austausch, der kam aus der Schweiz."
+./data/neda/data/G_2001_F_12_st.wav,0 days 00:00:42.018000,0 days 00:00:44.030000,F_12,female,24,2001,2.012,unknown,"hat aber kein Deutsch gesprochen, sondern Französisch."
+./data/neda/data/G_2001_F_12_st.wav,0 days 00:00:45.474000,0 days 00:00:49.566000,F_12,female,24,2001,4.092,unknown,Ich wurde sowohl von Freunden als auch von meiner Familie in der Zeit dort besucht.
+./data/neda/data/G_2001_F_12_st.wav,0 days 00:00:49.698000,0 days 00:00:58.814000,F_12,female,24,2001,9.116,unknown,"Ich habe eine irische Schule besucht und zum ersten Mal Unterricht in Deutsch als Fremdsprache gesehen, was für mich sehr irritierend, aber auch interessant war."
+./data/neda/data/G_2001_F_12_st.wav,0 days 00:01:01.474000,0 days 00:01:04.158000,F_12,female,24,2001,2.684,unknown,"die zehn Monate vollständig da geblieben, war zwischendrin."
+./data/neda/data/G_2001_F_12_st.wav,0 days 00:01:04.482000,0 days 00:01:07.038000,F_12,female,24,2001,2.556,unknown,Nicht zu Hause. Ich habe heute leider...
+./data/neda/data/G_2001_F_12_st.wav,0 days 00:01:07.362000,0 days 00:01:10.046000,F_12,female,24,2001,2.684,unknown,"keinen Kontakt mehr zu den Leuten, die ich da kennengelernt habe."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:00:02.498000,0 days 00:00:05.918000,F_28,female,24,2001,3.42,unknown,"Ja, ich erinnere mich immer gerne an eine Geschichte,"
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:00:06.114000,0 days 00:00:16.114000,F_28,female,24,2001,10.0,unknown,"bei der ich mit meiner Freundin versucht habe, Geld zu verdienen in einer fremden Stadt, weil wir nicht genug Geld von unseren Eltern als Taschengeld mitbekommen haben. Und wir waren in Wittenberg."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:00:16.114000,0 days 00:00:26.686000,F_28,female,24,2001,10.572,unknown,"Wir hatten, glaube ich, so 20 Euro dabei, die wir dann schon in den ersten Tagen ausgegeben haben, die wir dort geschlafen haben mit unserer Feriengruppe. Also es war wie so eine Art Ferienlager."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:00:26.914000,0 days 00:00:31.774000,F_28,female,24,2001,4.86,unknown,"Und wir brauchten aber noch mehr Geld, weil wir uns unbedingt so einen Kaugummiautomaten kaufen wollten."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:00:31.874000,0 days 00:00:41.874000,F_28,female,24,2001,10.0,unknown,"Und dann haben wir gedacht, wir könnten das so machen, wie wir das auch schon mal in Filmen gesehen haben und einfach Sachen, die wir selber besitzen, auf der Straße aufstellen."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:00:49.698000,0 days 00:01:01.054000,F_28,female,24,2001,11.356,unknown,"haben wir zusammengesucht, was wir irgendwie loswerden konnten oder worauf wir verzichten konnten. Und das waren dann auch Sachen, die sich nicht so gut verkaufen lassen. Also Saft zum Beispiel, der auch..."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:01:01.218000,0 days 00:01:07.934000,F_28,female,24,2001,6.716,unknown,"nee, der noch nicht angefangen war zu dem Zeitpunkt, ja, Saft, dann eine leere kleine Tasche, ähm,"
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:01:08.098000,0 days 00:01:18.098000,F_28,female,24,2001,10.0,unknown,"Ich glaube, Handschuhe hatten wir noch dabei, also wie Fahrradhandschuhe. Und das haben wir dann so vor uns gelegt und uns dahinter gesetzt und gewartet und gehofft, dass Leute vorbeikommen."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:01:18.098000,0 days 00:01:28.098000,F_28,female,24,2001,10.0,unknown,"Und das ist dann einfach kaufen direkt. Wir haben auch kein Schild aufgestellt irgendwie zum Verkaufen. Also es war jetzt auch nicht ganz so eindeutig, was vielleicht auch der Grund war, warum tatsächlich niemand angehalten hat."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:01:34.050000,0 days 00:01:38.174000,F_28,female,24,2001,4.124,unknown,"warm, es war ja in den Sommerferien, dass wir ein bisschen Durst bekommen haben."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:01:38.274000,0 days 00:01:47.966000,F_28,female,24,2001,9.692,unknown,"Und dann haben wir tatsächlich die Saftflasche, die wir ja eigentlich zum Verkaufen ausgestellt hatten, aufgemacht und ein bisschen was davon getrunken. Wir wollten es ja immer noch verkaufen."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:01:48.066000,0 days 00:01:50.174000,F_28,female,24,2001,2.108,unknown,Deswegen haben wir nur einen Schluck draus genommen.
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:01:50.306000,0 days 00:01:52.510000,F_28,female,24,2001,2.204,unknown,"Ja, und haben es dann wieder vor uns gestellt."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:01:52.610000,0 days 00:01:54.750000,F_28,female,24,2001,2.14,unknown,Aber bis zum Schluss kam leider niemand.
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:01:54.882000,0 days 00:02:06.558000,F_28,female,24,2001,11.676,unknown,"Und unsere letzte Idee war dann noch, als wir gemerkten, der Verkauf funktioniert nicht, dass wir Geld aus dem Fluss herausfischen. Also es war kein Fluss, sondern so ein kleines Bächlein, was direkt durch die Stadt floss."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:02:06.658000,0 days 00:02:11.806000,F_28,female,24,2001,5.148,unknown,Und da hatten halt Leute so 10 und 50 Cent-Stücke reingeworfen.
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:02:12.194000,0 days 00:02:22.194000,F_28,female,24,2001,10.0,unknown,"Und wir dachten, wenn wir das nur oft genug rausfischen und es war nicht so tief, dann haben wir irgendwann genug Geld, um uns diesen Kaugummiautomaten zu kaufen. Und am Ende haben wir es so gemacht, dass wir uns mit..."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:02:22.194000,0 days 00:02:32.194000,F_28,female,24,2001,10.0,unknown,"Leute aus unserem Zimmer zusammengetan hatten, die noch Taschengeld übrig hatten und die überredet haben, diesen Kaugummi-Automat von diesem Geld zu kaufen. Und dann war es zwar deren Automat, aber"
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:02:32.194000,0 days 00:02:42.194000,F_28,female,24,2001,10.0,unknown,"Wir konnten ihn auf jeden Fall die Zeit über mit benutzen und haben ihn dann auch so ein bisschen wie so ein Wahrsagegerät benutzt. Also es gab verschiedene farbige Kaugummis, die man da einsetzt."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:02:48.738000,0 days 00:02:58.738000,F_28,female,24,2001,10.0,unknown,"Und je nach Farbe hatten wir uns dann verschiedene Antwortmöglichkeiten überlegt. Also das Grün zum Beispiel Ja, heiß und Rot Nein. Gelb sowas wie Naja, Ja für die Schmerzen."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:03:03.266000,0 days 00:03:13.502000,F_28,female,24,2001,10.236,unknown,"Fragen anwenden, zum Beispiel wird heute Abend noch die Disco stattfinden oder so, sodass wir diesen Kaugummi Automaten mit sehr viel Bedeutung aufgeladen haben."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:03:14.050000,0 days 00:03:16.414000,F_28,female,24,2001,2.364,unknown,"Ja, und es war eine schöne..."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:03:16.578000,0 days 00:03:21.246000,F_28,female,24,2001,4.668,unknown,"Erfahrung für mich und wir reden da immer noch gerne drüber, wenn wir uns sehen."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:03:21.346000,0 days 00:03:29.502000,F_28,female,24,2001,8.156,unknown,"weil wir so naiv waren und dachten, wir könnten einfach Sachen verkaufen und würden vor allem auch genug Geld verdienen, um uns diesen Kaugummiautomaten zu kaufen."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:03:29.602000,0 days 00:03:39.602000,F_28,female,24,2001,10.0,unknown,"Das hat natürlich nicht funktioniert, aber als Kinder dachten wir, es funktioniert. Ja, und am witzigsten finde ich dann eigentlich, wie verzweifelt wir wurden und eben den Saft dann selber getrunken haben."
+./data/neda/data/G_2001_F_28_st.wav,0 days 00:03:44.002000,0 days 00:03:47.454000,F_28,female,24,2001,3.452,unknown,Und am Ende ist es ja sogar gut verlaufen. Also war dann eine...
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:00:03.298000,0 days 00:00:05.822000,F_01,female,23,2002,2.524,unknown,Das ist eine sehr lustige Geschichte.
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:00:10.306000,0 days 00:00:13.406000,F_01,female,23,2002,3.1,unknown,Skilagerausflug in der achten Klasse.
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:00:25.506000,0 days 00:00:32.958000,F_01,female,23,2002,7.452,unknown,ist der ganze Jahrgang von verschiedenen Schulen an die österreichische Grenze gefahren.
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:00:33.090000,0 days 00:00:36.446000,F_01,female,23,2002,3.356,unknown,"in die Alpen, schon tatsächlich in Italien."
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:00:37.570000,0 days 00:00:41.694000,F_01,female,23,2002,4.124,unknown,Skilager war alles schön und gut. Die lustige Geschichte dahinter war.
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:00:44.386000,0 days 00:00:50.270000,F_01,female,23,2002,5.884,unknown,"in einer Jugendherberge, wo wir eigentlich jedes Mal, wenn wir raus wollten, den Lehrern Bescheid geben sollten."
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:00:50.434000,0 days 00:00:58.750000,F_01,female,23,2002,8.316,unknown,"Allerdings waren die Lehrer nirgends zu finden und als wir mal in deren Zimmer nachgeschaut haben, haben wir auch nur Flaschen an Weinen und anderen Sachen gefunden."
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:00:59.202000,0 days 00:01:03.806000,F_01,female,23,2002,4.604,unknown,"Jedenfalls, ich und meine Freundin wollten mal raus, weil in der Nähe auch ein Lidl war."
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:01:03.906000,0 days 00:01:11.166000,F_01,female,23,2002,7.26,unknown,"weil wir uns irgendwas zum Essen kaufen wollten, haben keine Lehrer gefunden. Dementsprechend sind wir einfach rausgegangen, was einkaufen gegangen und dann im Berg."
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:01:14.914000,0 days 00:01:19.262000,F_01,female,23,2002,4.348,unknown,Und haben uns da einfach mal hingesessen. Irgendwann mal haben dann alle Schüler angefangen zu schreien.
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:01:20.098000,0 days 00:01:27.422000,F_01,female,23,2002,7.324,unknown,"dass wir runterkommen sollen und Panik und seid ihr dumm, kommt runter, die Lehrer suchen nach euch."
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:01:27.618000,0 days 00:01:32.734000,F_01,female,23,2002,5.116,unknown,"Vor der Panik sind wir dann auch runtergerannt, zurück in die Jugendherberge."
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:01:32.994000,0 days 00:01:35.806000,F_01,female,23,2002,2.8120000000000003,unknown,"und haben erst mal geschaut, wo die Lehrer sind."
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:01:37.570000,0 days 00:01:42.142000,F_01,female,23,2002,4.572,unknown,immer noch nicht irgendwo aufzufinden. Die waren wie vom Erdboden verschluckt.
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:01:42.274000,0 days 00:01:45.310000,F_01,female,23,2002,3.036,unknown,Obwohl wir Probleme gehabt hätten sollen.
+./data/neda/data/G_2002_F_01_st.wav,0 days 00:01:47.394000,0 days 00:01:51.390000,F_01,female,23,2002,3.996,unknown,"weil niemand da war, der uns hätte irgendwelche Probleme machen können."
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:00:03.010000,0 days 00:00:05.598000,F_02,female,23,2002,2.588,unknown,jeden Sommer in ein
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:00:11.650000,0 days 00:00:16.702000,F_02,female,23,2002,5.052,unknown,"Und da kamen Kinder aus überall von Deutschland, auch teilweise aus anderen Ländern dazu."
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:00:25.154000,0 days 00:00:27.678000,F_02,female,23,2002,2.524,unknown,"richtig gutes Essen gegessen, denn die Köche haben..."
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:00:29.954000,0 days 00:00:32.062000,F_02,female,23,2002,2.108,unknown,und gesungen.
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:00:32.450000,0 days 00:00:35.902000,F_02,female,23,2002,3.452,unknown,Und abends auch Nachtwanderungen gemacht und so weiter.
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:00:51.106000,0 days 00:00:53.150000,F_02,female,23,2002,2.044,unknown,"Beste Teil meines Jahres, jedes Jahr."
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:00:55.074000,0 days 00:00:57.214000,F_02,female,23,2002,2.14,unknown,"Das habe ich gemacht, seit ich sieben war."
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:01:01.858000,0 days 00:01:05.950000,F_02,female,23,2002,4.092,unknown,Und jedes Jahr kamen die gleichen Teilnehmer und wir haben uns angefreundet.
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:01:27.778000,0 days 00:01:31.262000,F_02,female,23,2002,3.484,unknown,Eins meiner Lieblingsspiele aus dieser Freizeit war Fahne-Clown.
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:01:53.954000,0 days 00:01:56.126000,F_02,female,23,2002,2.172,unknown,"Ziel des Spiels, die fremde Fahne."
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:01:58.562000,0 days 00:02:00.702000,F_02,female,23,2002,2.14,unknown,"Aber wenn man sich auf der Gegnerseite befindet,"
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:02:07.938000,0 days 00:02:10.782000,F_02,female,23,2002,2.844,unknown,"Es war sehr cool, aber ich bin nicht so..."
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:02:16.354000,0 days 00:02:19.454000,F_02,female,23,2002,3.1,unknown,Und am Ende der Freizeit haben wir immer Urkunden bekommen.
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:02:19.586000,0 days 00:02:22.302000,F_02,female,23,2002,2.716,unknown,"mit etwas, was wir besonders gut gemacht haben in der Freizeit."
+./data/neda/data/G_2002_F_02_st.wav,0 days 00:02:23.234000,0 days 00:02:25.662000,F_02,female,23,2002,2.428,unknown,"Ich glaube, mindestens zweimal stand bei mir, dass ich..."
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:00:03.970000,0 days 00:00:07.902000,F_16,female,23,2002,3.932,unknown,"Okay, also eine Geschichte an den Sommerferien aus meiner Kindheit ist..."
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:00:08.098000,0 days 00:00:11.230000,F_16,female,23,2002,3.132,unknown,Da waren wir mit einer Gruppe.
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:00:11.394000,0 days 00:00:14.910000,F_16,female,23,2002,3.516,unknown,"also mit einer Gruppe von Familien, die ich schon kannte."
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:00:17.730000,0 days 00:00:21.822000,F_16,female,23,2002,4.092,unknown,"in so einem Freizeitpark und es war die ganze Zeit ein sehr schöner Park, weil es gab so einen"
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:00:22.114000,0 days 00:00:26.366000,F_16,female,23,2002,4.252,unknown,so ein Riesensprungtuch und da hatte ich sehr viel Spaß dran und auch sehr viele...
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:00:28.930000,0 days 00:00:32.318000,F_16,female,23,2002,3.388,unknown,eine Riesenrutsche mit so Teppichrutschen oder...
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:00:33.538000,0 days 00:00:35.742000,F_16,female,23,2002,2.204,unknown,Go-Kart fahren und so weiter und so fort.
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:00:36.066000,0 days 00:00:38.430000,F_16,female,23,2002,2.364,unknown,Und dann gab es aber auch so eine...
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:00:39.074000,0 days 00:00:42.814000,F_16,female,23,2002,3.74,unknown,eine große Schaukel mit so Reifen an den Seiten.
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:00:43.074000,0 days 00:00:49.374000,F_16,female,23,2002,6.3,unknown,"Und wir konnten als Kinder dann nicht ganz oben aufsteigen, obwohl es natürlich am meisten Spaß macht, wenn man ganz oben aufsteigt."
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:00:49.506000,0 days 00:00:53.022000,F_16,female,23,2002,3.516,unknown,"Das heißt, ein Vater hat sich bereit erklärt, uns auf die..."
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:00:53.218000,0 days 00:01:00.894000,F_16,female,23,2002,7.676,unknown,"auf den Arm zu nehmen und dann auf diese Schaukel zu setzen, damit wir quasi den kompletten Range ausnutzen können. Und bei allen hat das super funktioniert."
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:01:06.978000,0 days 00:01:09.022000,F_16,female,23,2002,2.044,unknown,ein blaues Auge gehauen. Also ich bin mit dem
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:01:09.218000,0 days 00:01:11.326000,F_16,female,23,2002,2.108,unknown,Arm irgendwie so an seinen Kopf gekommen.
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:01:11.618000,0 days 00:01:15.518000,F_16,female,23,2002,3.9,unknown,"Und dann hat er losgelassen und das heißt, ich bin dadurch dann..."
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:01:22.306000,0 days 00:01:28.190000,F_16,female,23,2002,5.884,unknown,"Genau, das heißt, es war ein richtig schöner Tag, aber am Ende musste ich ins Krankenhaus gefahren werden, weil..."
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:01:28.354000,0 days 00:01:33.790000,F_16,female,23,2002,5.436,unknown,"ich mir das Handgelenk verstaucht hatte. Oder beziehungsweise, nee, eigentlich ein Stück aus der Wachstumsfuge."
+./data/neda/data/G_2002_F_16_st.wav,0 days 00:01:33.954000,0 days 00:01:39.774000,F_16,female,23,2002,5.82,unknown,"rausgesplittert war. Und dann hatte ich auch noch auf der Klassenfahrt, die danach war, einen"
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:00:07.138000,0 days 00:00:11.646000,M_18,male,23,2002,4.508,unknown,"Meine Familie und ich, wir sind, als ich noch ein Kind war, sind wir ein..."
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:00:11.746000,0 days 00:00:14.654000,M_18,male,23,2002,2.908,unknown,paar Jahre hintereinander immer nach Corsica gefahren.
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:00:14.786000,0 days 00:00:21.566000,M_18,male,23,2002,6.78,unknown,"Und das Problem dabei ist oder war oft, dass meine Eltern beide so ein..."
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:00:24.194000,0 days 00:00:27.358000,M_18,male,23,2002,3.164,unknown,"Fable haben, also meine Mutter ist Geografin und mein Vater war..."
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:00:31.618000,0 days 00:00:35.806000,M_18,male,23,2002,4.188,unknown,"waren die Urlaube immer sehr abenteuerlich, weil..."
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:00:36.898000,0 days 00:00:39.422000,M_18,male,23,2002,2.524,unknown,meine Eltern dann immer sich so...
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:00:40.066000,0 days 00:00:43.262000,M_18,male,23,2002,3.196,unknown,"Orte ausgesucht haben, zum Beispiel eine versteckte Bucht."
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:00:43.714000,0 days 00:00:47.678000,M_18,male,23,2002,3.964,unknown,"zu der man aber halt hinlaufen musste und dann hieß es immer, wir..."
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:00:48.002000,0 days 00:00:51.006000,M_18,male,23,2002,3.004,unknown,Wir laufen gar nicht so weit und vor allem an diesem einen Tag...
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:00:51.394000,0 days 00:00:58.142000,M_18,male,23,2002,6.748,unknown,"war das einfach die größte Lüge, die sie je erzählt haben, weil wir haben das Auto abgestellt an einem ganz normalen Parkplatz und alles war noch..."
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:00:58.530000,0 days 00:01:06.814000,M_18,male,23,2002,8.284,unknown,so ausgeschildert und wir laufen eine halbe Stunde zum Strand und waren dann den ganzen Tag am Strand und es war schön und ich habe mit meinem Papa geangelt und äh...
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:01:10.210000,0 days 00:01:19.294000,M_18,male,23,2002,9.084,unknown,"Für den Rückweg haben meine Eltern gesagt, ja, wir nehmen einen anderen Weg und wenn wir den anderen Weg nehmen, dann sehen wir noch einen tollen Ausblick."
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:01:19.586000,0 days 00:01:23.070000,M_18,male,23,2002,3.484,unknown,Das ist dann irgendwie total schön und dann laufen wir noch ein bisschen.
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:01:25.378000,0 days 00:01:29.054000,M_18,male,23,2002,3.676,unknown,Dann laufen wir los und wir laufen und wir laufen und...
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:01:29.538000,0 days 00:01:41.278000,M_18,male,23,2002,11.74,unknown,"laufen um die Bucht rum und sehen das Meer und am Anfang war es auch schön und irgendwann hieß es dann, ja jetzt müssen wir nach rechts so in Richtung der Hügel und hinter den Hügeln steht dann gleich das Auto."
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:01:41.762000,0 days 00:01:45.598000,M_18,male,23,2002,3.836,unknown,Und dann laufen wir und laufen wir und laufen wir und laufen wir und also...
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:01:45.698000,0 days 00:01:55.698000,M_18,male,23,2002,10.0,unknown,"In meiner Erinnerung hat es nicht aufgehört mit diesem Laufen. Und vor allem, wir sind halt mitten durch die korsische Pampa gelaufen. Also da war nichts. Da war einfach nur dieser Schotterweg."
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:01:55.698000,0 days 00:02:05.698000,M_18,male,23,2002,10.0,unknown,zwischen den Büschen und wir hatten wenig Wasser und mein Papa vorne weg und meine Mama noch weiter vorne weg und meine Schwester und ich kämpfen uns den Berg.
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:02:12.386000,0 days 00:02:21.758000,M_18,male,23,2002,9.372,unknown,"Wir sehen überhaupt nichts, kein schöner Berg und man sieht das Meer auch nicht mehr, nur noch korsische Pampa und der Schotterweg. Und dann irgendwann..."
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:02:23.106000,0 days 00:02:27.390000,M_18,male,23,2002,4.284,unknown,Ich würde sagen mindestens zwei Stunden. Die Sonne ist schon am Untergehen.
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:02:27.522000,0 days 00:02:33.054000,M_18,male,23,2002,5.532,unknown,haben wir dann die Straße gefunden und mussten dann aber immer noch die Straße langlaufen.
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:02:36.898000,0 days 00:02:45.438000,M_18,male,23,2002,8.54,unknown,"sind wir dann endlich beim Auto angekommen und meine Schwester und ich waren so unglaublich sauer auf meine Eltern und wir haben gesagt, wir fahren nie wieder mit euch in Urlaub."
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:02:49.474000,0 days 00:02:52.094000,M_18,male,23,2002,2.62,unknown,auch immer wieder solche Sachen erlebt. Also das sind...
+./data/neda/data/G_2002_M_18_st.wav,0 days 00:02:53.026000,0 days 00:02:55.550000,M_18,male,23,2002,2.524,unknown,verschiedene Geschichten aus meiner Kindheit.
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:00:05.058000,0 days 00:00:09.278000,F_11,female,22,2003,4.22,unknown,Ich erzähle eine Geschichte über einen Sommerurlaub in meiner Kindheit.
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:00:09.858000,0 days 00:00:15.262000,F_11,female,22,2003,5.404,unknown,"Das war ein Urlaub, in dem meine Familie und ich an die Nordsee gefahren sind."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:00:15.586000,0 days 00:00:17.758000,F_11,female,22,2003,2.172,unknown,Das haben wir fast jedes Jahr gemacht.
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:00:18.050000,0 days 00:00:21.214000,F_11,female,22,2003,3.164,unknown,Allerdings war dieses Jahr eine besondere Zeit.
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:00:21.346000,0 days 00:00:27.390000,F_11,female,22,2003,6.044,unknown,"weil wir zuerst einen Stopp in Berlin gemacht haben, danach in Hamburg und später in der Nordsee waren."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:00:28.162000,0 days 00:00:30.718000,F_11,female,22,2003,2.556,unknown,"Für mich war das sehr, sehr besonders."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:00:32.418000,0 days 00:00:36.734000,F_11,female,22,2003,4.316,unknown,"als wir in Berlin waren, das Parlament besucht haben."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:00:37.090000,0 days 00:00:40.478000,F_11,female,22,2003,3.388,unknown,einen Spaziergang durch die große Glaskuppel.
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:00:40.674000,0 days 00:00:42.846000,F_11,female,22,2003,2.172,unknown,auf dem Parlamentsgebäude gemacht haben.
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:00:47.362000,0 days 00:00:52.382000,F_11,female,22,2003,5.02,unknown,"konnten sehen, wie die Politiker diskutieren, haben das Reichstagsgebäude besichtigt."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:00:52.770000,0 days 00:00:57.470000,F_11,female,22,2003,4.7,unknown,"und waren später oben in der Glasgruppe von Bosnall einen ganz, ganz tollen Blick über Berlin hatte."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:00:57.570000,0 days 00:01:00.158000,F_11,female,22,2003,2.588,unknown,"Und das war das erste Mal, dass ich..."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:01:00.482000,0 days 00:01:06.814000,F_11,female,22,2003,6.332,unknown,"in der Hauptstadt war und da die ganzen Sehenswürdigkeiten angeschaut habe. Und das war sehr, sehr aufregend. Ich war damals..."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:01:12.066000,0 days 00:01:14.078000,F_11,female,22,2003,2.012,unknown,"Berlin eine sehr, sehr aufregende Erfahrung."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:01:17.122000,0 days 00:01:19.710000,F_11,female,22,2003,2.588,unknown,weil ich vorher fast noch nie in so einer großen Stadt war.
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:01:21.218000,0 days 00:01:24.958000,F_11,female,22,2003,3.74,unknown,"Ist auch eine größere Stadt, allerdings nicht ganz so groß wie Berlin und Hamburg."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:01:27.234000,0 days 00:01:32.574000,F_11,female,22,2003,5.34,unknown,"Mit diesem Urlaub verknüpfe ich, dass ich damals eine meiner Lieblingsautorinnen gefunden habe."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:01:33.666000,0 days 00:01:37.790000,F_11,female,22,2003,4.124,unknown,in einem bestimmten Buchgeschäft saß am Jungfernsteg in Hamburg.
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:01:37.954000,0 days 00:01:40.830000,F_11,female,22,2003,2.876,unknown,Und habe damals zum ersten Mal...
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:01:41.218000,0 days 00:01:43.422000,F_11,female,22,2003,2.204,unknown,die Edelstein-Trilogie von Kerstin Yeer angefangen.
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:01:44.674000,0 days 00:01:46.878000,F_11,female,22,2003,2.204,unknown,"Die hatte ich vorher schon mal gesehen, aber noch nie reingeschaut."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:01:47.234000,0 days 00:01:50.270000,F_11,female,22,2003,3.036,unknown,"Und seitdem finde ich die Autorin ganz, ganz toll und tappt."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:01:50.754000,0 days 00:01:54.014000,F_11,female,22,2003,3.26,unknown,"mehrere Bücher von ihr gelesen, lese auch gerade eine Trilogie davon."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:01:54.466000,0 days 00:01:58.334000,F_11,female,22,2003,3.868,unknown,Und diesen Schuber mit den drei Büchern mit Rubin Roth.
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:01:58.626000,0 days 00:02:00.830000,F_11,female,22,2003,2.204,unknown,Saphirblau und Smartgrün habe ich bis heute.
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:02:09.858000,0 days 00:02:12.830000,F_11,female,22,2003,2.972,unknown,"nach Norderney, um genau zu sein. Es ist eine Nordseeinsel."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:02:13.218000,0 days 00:02:16.606000,F_11,female,22,2003,3.388,unknown,"Und da fahre ich mit meinen Eltern schon hin, seit ich ganz klein bin."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:02:20.226000,0 days 00:02:22.910000,F_11,female,22,2003,2.684,unknown,Seitdem ist es für mich ein bisschen wie ein zweites Zuhause.
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:02:23.458000,0 days 00:02:25.502000,F_11,female,22,2003,2.044,unknown,"Das heißt, wir wohnen zwar immer wieder woanders,"
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:02:26.178000,0 days 00:02:30.078000,F_11,female,22,2003,3.9,unknown,"aber ich kenne die Insel fast in- und auswendig, also kenne mich da gut aus."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:02:34.594000,0 days 00:02:37.662000,F_11,female,22,2003,3.068,unknown,"noch ein bisschen Erholung am Meer, baden, Eis essen."
+./data/neda/data/G_2003_F_11_st.wav,0 days 00:02:41.378000,0 days 00:02:45.406000,F_11,female,22,2003,4.028,unknown,"Und jetzt war ich schon seit drei Jahren nicht mehr da, aber komme diesen Sommer wahrscheinlich mal wieder dorthin."
+./data/neda/data/G_2004_M_05_st.wav,0 days 00:00:05.282000,0 days 00:00:08.574000,M_05,male,21,2004,3.292,unknown,"Spielt in Stuttgart, natürlich da, wo ich herkomme."
+./data/neda/data/G_2004_M_05_st.wav,0 days 00:00:09.378000,0 days 00:00:15.134000,M_05,male,21,2004,5.756,unknown,In den Sommerferien bin ich immer mit meinen Freunden ins Freibad gegangen. Das Freibad war in Botnang und wir sind da eigentlich...
+./data/neda/data/G_2004_M_05_st.wav,0 days 00:00:16.034000,0 days 00:00:20.382000,M_05,male,21,2004,4.348,unknown,"ja fast jeden Tag hingegangen, weil es auch kostenlos war für uns und"
+./data/neda/data/G_2004_M_05_st.wav,0 days 00:00:23.778000,0 days 00:00:29.470000,M_05,male,21,2004,5.692,unknown,"Das war eben nicht nur ein Freibad, sondern mit einer riesigen Grünfläche. Und da sind wir dann immer hingegangen und haben..."
+./data/neda/data/G_2004_M_05_st.wav,0 days 00:00:30.850000,0 days 00:00:33.662000,M_05,male,21,2004,2.8120000000000003,unknown,Volleyball gespielt oder gegessen.
+./data/neda/data/G_2004_M_05_st.wav,0 days 00:00:34.178000,0 days 00:00:37.502000,M_05,male,21,2004,3.324,unknown,"war natürlich schwimmbad, Fußball gespielt, alles Mögliche."
+./data/neda/data/G_2004_M_05_st.wav,0 days 00:00:37.954000,0 days 00:00:40.158000,M_05,male,21,2004,2.204,unknown,Und ich bin da mal mit einem Kumpel hingegangen.
+./data/neda/data/G_2004_M_05_st.wav,0 days 00:00:41.058000,0 days 00:00:44.062000,M_05,male,21,2004,3.004,unknown,"zu zweit immer, war nicht weit weg von unserem Zuhause."
+./data/neda/data/G_2004_M_05_st.wav,0 days 00:00:48.226000,0 days 00:00:51.038000,M_05,male,21,2004,2.8120000000000003,unknown,Da haben wir dann zum ersten Mal die Duschkabinen entdeckt und haben dann...
+./data/neda/data/G_2004_M_05_st.wav,0 days 00:00:51.234000,0 days 00:00:55.294000,M_05,male,21,2004,4.06,unknown,"so lange geduscht, bis das Freibad geschlossen hatte, weil die Duschen waren so angenehm und..."
+./data/neda/data/G_2004_M_05_st.wav,0 days 00:00:58.722000,0 days 00:01:04.382000,M_05,male,21,2004,5.66,unknown,"Wir waren einfach die ganze Zeit in der Duschkabine, ohne überhaupt einmal im Freibad gewesen zu sein. Und als es dann zugemacht hat,"
+./data/neda/data/G_2004_M_05_st.wav,0 days 00:01:08.354000,0 days 00:01:11.006000,M_05,male,21,2004,2.652,unknown,den ganzen Weg wieder nach Hause gelaufen. Das war auf jeden Fall...
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:00:03.426000,0 days 00:00:06.718000,M_23,male,21,2004,3.292,unknown,"letzten Sommerferien vor dem Abitur, was ich gemacht habe, war ich mit"
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:00:08.290000,0 days 00:00:10.590000,M_23,male,21,2004,2.3,unknown,"mit meinen Eltern in der Schweiz, also mit meiner Mutter in meiner..."
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:00:10.690000,0 days 00:00:12.734000,M_23,male,21,2004,2.044,unknown,mit meiner Mutter und meinem Stiefvater.
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:00:12.962000,0 days 00:00:15.774000,M_23,male,21,2004,2.8120000000000003,unknown,Da haben wir so eine kleine Rundreise gemacht. Wir haben...
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:00:15.938000,0 days 00:00:19.998000,M_23,male,21,2004,4.06,unknown,"Angefangen in Konstanz, noch auf der deutschen Seite, haben dann da einmal übernachtet."
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:00:21.506000,0 days 00:00:25.502000,M_23,male,21,2004,3.996,unknown,"Wir waren dann unten in Konstanz am Bodensee, das war sehr schön."
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:00:25.890000,0 days 00:00:29.758000,M_23,male,21,2004,3.868,unknown,sind dann von da aus nach Meiringen im Berner Oberland gefahren.
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:00:30.018000,0 days 00:00:33.982000,M_23,male,21,2004,3.964,unknown,"Da haben wir die Reichenbach-Feller besucht, weil ich großer Sherlock-Holmes-Fan bin."
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:00:34.402000,0 days 00:00:37.694000,M_23,male,21,2004,3.292,unknown,"Das war natürlich sehr cool, aber es war auch sehr anstrengend da hoch zu gehen."
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:00:40.706000,0 days 00:00:44.030000,M_23,male,21,2004,3.324,unknown,"gerade mal 700 Höhenmeter, die wir da überwunden haben, aber es hat sich deutlich..."
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:00:51.234000,0 days 00:00:55.262000,M_23,male,21,2004,4.028,unknown,"nach Bull gefahren, das ist im französischen Teil der Schweiz,"
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:01:00.194000,0 days 00:01:05.758000,M_23,male,21,2004,5.564,unknown,waren wir nicht so zufrieden. Das waren irgendwie von der Mentalität anderer Menschen als im deutschsprachigen Teil der Schweiz.
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:01:07.586000,0 days 00:01:11.870000,M_23,male,21,2004,4.284,unknown,"Cahiers Chocolatenmuseum, das ist ein Schokoladenhersteller in der Schweiz."
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:01:14.114000,0 days 00:01:16.926000,M_23,male,21,2004,2.8120000000000003,unknown,"Ich konnte aber nicht so viel mitessen, weil ich zu der Zeit..."
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:01:18.498000,0 days 00:01:22.622000,M_23,male,21,2004,4.124,unknown,"erhöhten Triglyceridwerten, spezielle Diät-Einheiten-Muster."
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:01:22.978000,0 days 00:01:27.230000,M_23,male,21,2004,4.252,unknown,"Genau, das war natürlich sehr schade, aber ich habe Schokolade mitgenommen, die hat dann auch zu Hause gut geschmeckt."
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:01:28.578000,0 days 00:01:33.054000,M_23,male,21,2004,4.476,unknown,"Genau, dann sind wir zurückgefahren, sind dann auch noch in Bern selbst gehalten."
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:01:35.618000,0 days 00:01:38.622000,M_23,male,21,2004,3.004,unknown,"Das ist eine Stadt, die liegt an der Aare und hat so eine sehr..."
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:01:40.706000,0 days 00:01:45.022000,M_23,male,21,2004,4.316,unknown,Also eine sehr schöne historische Innenstadt mit vielen Brunnen und so engen kleinen Gassen.
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:01:46.658000,0 days 00:01:49.502000,M_23,male,21,2004,2.844,unknown,"Da gab es dann auch so einen Brunnen, wo Justitia..."
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:01:55.138000,0 days 00:01:57.886000,M_23,male,21,2004,2.748,unknown,"Genau, und dann sind wir zurückgeformt, sind dann..."
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:02:09.698000,0 days 00:02:12.158000,M_23,male,21,2004,2.46,unknown,wo die Neunberger Prozesse stattfanden.
+./data/neda/data/G_2004_M_23_st.wav,0 days 00:02:12.706000,0 days 00:02:15.038000,M_23,male,21,2004,2.332,unknown,Und sind dann von da aus zurück in meine Heimatstadt.
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:00:02.082000,0 days 00:00:04.574000,M_24,male,21,2004,2.492,unknown,Meine Eltern haben mich häufig...
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:00:06.370000,0 days 00:00:09.054000,M_24,male,21,2004,2.684,unknown,"in ein Ferienlager geschickt damals, da war ich noch sehr jung."
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:00:11.426000,0 days 00:00:13.566000,M_24,male,21,2004,2.14,unknown,"Er ist jetzt das erste Mal da, wann. Wir sind im"
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:00:23.650000,0 days 00:00:26.078000,M_24,male,21,2004,2.428,unknown,"Meine Eltern haben dann dieses Heike genutzt, um zu arbeiten."
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:00:27.106000,0 days 00:00:29.630000,M_24,male,21,2004,2.524,unknown,"Ich verstehe, sind ziemlich workaholic und Eltern."
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:00:30.210000,0 days 00:00:32.894000,M_24,male,21,2004,2.684,unknown,"Ja, und es war immer ein sehr gutes Fernlager."
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:00:32.994000,0 days 00:00:36.318000,M_24,male,21,2004,3.324,unknown,"war vom Verband der Naturfreunde, was ein bisschen esoterisch klingt."
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:00:38.978000,0 days 00:00:41.246000,M_24,male,21,2004,2.268,unknown,"Ich weiß noch einmal, da waren wir"
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:00:46.114000,0 days 00:00:50.014000,M_24,male,21,2004,3.9,unknown,Und diese Organisation hat ein großes Haus gemietet.
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:00:54.210000,0 days 00:00:58.142000,M_24,male,21,2004,3.932,unknown,"So konnten wir zum Beispiel selbstorganisiert im Wald, der direkt anliegend war."
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:00:58.882000,0 days 00:01:01.054000,M_24,male,21,2004,2.172,unknown,spielen gehen. Das habe ich sehr oft gemacht.
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:01:01.730000,0 days 00:01:03.966000,M_24,male,21,2004,2.236,unknown,"Es gab einmal dann den Fall, dass..."
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:01:06.338000,0 days 00:01:09.086000,M_24,male,21,2004,2.748,unknown,"da frei zu halten, dass ich zu lange im Wald geblieben bin."
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:01:10.210000,0 days 00:01:12.606000,M_24,male,21,2004,2.396,unknown,"die Leute Panik gekriegt haben, die auf uns aufpassten."
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:01:20.866000,0 days 00:01:24.862000,M_24,male,21,2004,3.996,unknown,"aber unversehrt und hatte auch ein paar besonders coole Stöcke, wie ich damals fand."
+./data/neda/data/G_2004_M_24_st.wav,0 days 00:01:25.730000,0 days 00:01:27.742000,M_24,male,21,2004,2.012,unknown,sehr große oder sehr gut geformte Stöcke.
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:00:01.474000,0 days 00:00:04.126000,F_08,female,22,2003,2.652,unknown,"Einmal, da wollten wir in den Urlaub fliegen."
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:00:04.290000,0 days 00:00:07.166000,F_08,female,22,2003,2.876,unknown,Und dazu sind wir nach Österreich gefahren.
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:00:09.154000,0 days 00:00:14.494000,F_08,female,22,2003,5.34,unknown,"Weil der Flug halt von Salzburg ging, war das für uns etwas sehr Aufregendes und da dachten wir uns,"
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:00:14.594000,0 days 00:00:18.814000,F_08,female,22,2003,4.22,unknown,Da können wir auch Salzburg sehen einerseits und dann auch in den Flieger steigen und in den Urlaub fliegen.
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:00:19.330000,0 days 00:00:21.406000,F_08,female,22,2003,2.076,unknown,Und dann sind wir auch einen Tag früher hingegangen.
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:00:22.850000,0 days 00:00:24.894000,F_08,female,22,2003,2.044,unknown,Und dann sind wir auch in einem...
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:00:27.714000,0 days 00:00:33.662000,F_08,female,22,2003,5.948,unknown,"Und es war ganz schön, haben wir da noch die Stadt gesehen und Salzburg war einfach magisch. Und wir konnten auch, da gibt es auch den..."
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:00:35.970000,0 days 00:00:38.078000,F_08,female,22,2003,2.108,unknown,Da konnte man die ganze kleine Stadt sehen.
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:00:38.466000,0 days 00:00:40.510000,F_08,female,22,2003,2.044,unknown,Und das einfach bezaubern. Und danach...
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:00:44.738000,0 days 00:00:48.254000,F_08,female,22,2003,3.516,unknown,Dort jedenfalls gab es Störungen an unserem Zielort.
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:00:51.874000,0 days 00:00:56.190000,F_08,female,22,2003,4.316,unknown,"wegen halt Verspätungen. Und das Problem war, dass wir so lange gewartet haben,"
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:00:59.362000,0 days 00:01:02.814000,F_08,female,22,2003,3.452,unknown,die Reise abbrechen mussten und der Flieger nicht mal an dem Tag dann ging.
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:01:03.362000,0 days 00:01:08.446000,F_08,female,22,2003,5.084,unknown,"Und das war dann sehr schlimm, weil wir dann noch nicht zurück nach Hause konnten, weil wir wohnen ja in Deutschland."
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:01:17.954000,0 days 00:01:22.174000,F_08,female,22,2003,4.22,unknown,"weil am nächsten Tag haben wir da auch einen Flieger bekommen. Aber das Schöne war, dieses Hotel war..."
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:01:22.562000,0 days 00:01:24.574000,F_08,female,22,2003,2.012,unknown,So ein Luxus in unserem normalen
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:01:26.882000,0 days 00:01:32.574000,F_08,female,22,2003,5.692,unknown,"Und das war für uns so schön, einfach mal auf sowas zu sehen, weil wir waren dann auch in so einem richtig schicken Restaurant und alles."
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:01:35.394000,0 days 00:01:43.134000,F_08,female,22,2003,7.74,unknown,"Eigentlich, was sich dann so als Schlimmes entpuppt hatte, hat sich dann für uns als etwas sehr Schönes ergeben, weil wir dann nochmal die Stadt sehen konnten, aber von diesem Blickwinkel."
+./data/neda/data/G_2003_F_08_st.wav,0 days 00:01:43.906000,0 days 00:01:47.838000,F_08,female,22,2003,3.932,unknown,"Und ja, aber die zwölf Stunden Wartezeit war nicht so toll."
+./data/neda/data/G_2003_M_07_st.wav,0 days 00:00:01.570000,0 days 00:00:03.582000,M_07,male,22,2003,2.012,unknown,als ich ungefähr fünf Jahre alt war.
+./data/neda/data/G_2003_M_07_st.wav,0 days 00:00:04.066000,0 days 00:00:07.934000,M_07,male,22,2003,3.868,unknown,bin ich mit meiner besten Freundin damals Eis essen gegangen.
+./data/neda/data/G_2003_M_07_st.wav,0 days 00:00:09.506000,0 days 00:00:12.446000,M_07,male,22,2003,2.94,unknown,Ganz motiviert und glücklich sind wir zur Eisdiele gegangen.
+./data/neda/data/G_2003_M_07_st.wav,0 days 00:00:12.898000,0 days 00:00:16.734000,M_07,male,22,2003,3.836,unknown,"Ich hatte ein bisschen mehr Geld von meiner Mutter bekommen, also habe ich mir vorgenommen."
+./data/neda/data/G_2003_M_07_st.wav,0 days 00:00:17.442000,0 days 00:00:19.550000,M_07,male,22,2003,2.108,unknown,Ich kaufe mir ein paar Kugeln Eis mehr.
+./data/neda/data/G_2003_M_07_st.wav,0 days 00:00:22.498000,0 days 00:00:27.294000,M_07,male,22,2003,4.796,unknown,"und sagt zur Verkäuferin, ich hätte gerne vier Kugeln Eis in der Waffel."
+./data/neda/data/G_2003_M_07_st.wav,0 days 00:00:28.738000,0 days 00:00:31.934000,M_07,male,22,2003,3.196,unknown,Dann bekomme ich meine vier Kugeln Eis. Ich bin sehr glücklich.
+./data/neda/data/G_2003_M_07_st.wav,0 days 00:00:35.394000,0 days 00:00:38.654000,M_07,male,22,2003,3.26,unknown,eine Minute nachdem ich die Eistüte bekommen habe.
+./data/neda/data/G_2003_M_07_st.wav,0 days 00:00:44.002000,0 days 00:00:46.206000,M_07,male,22,2003,2.204,unknown,"Große Krise, großes Drama."
+./data/neda/data/G_2003_M_07_st.wav,0 days 00:00:46.946000,0 days 00:00:50.654000,M_07,male,22,2003,3.708,unknown,"Ich habe mir noch mehr Eis gekauft, als ich das normalerweise durfte."
+./data/neda/data/G_2003_M_07_st.wav,0 days 00:00:53.314000,0 days 00:00:57.022000,M_07,male,22,2003,3.708,unknown,"Und das Universum hat wohl nicht gewollt, dass ich mehr Eis esse."
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:00:00.738000,0 days 00:00:03.550000,M_25,male,22,2003,2.8120000000000003,unknown,Ich war in den Sommerferien häufig bei meinen...
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:00:08.834000,0 days 00:00:13.214000,M_25,male,22,2003,4.38,unknown,bin ich einfach mit dem Zug damals die ersten Male alleine bis nach Magdeburg gefahren.
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:00:13.410000,0 days 00:00:15.550000,M_25,male,22,2003,2.14,unknown,und wurde dort von meinen Großeltern abgeholt.
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:00:24.130000,0 days 00:00:28.030000,M_25,male,22,2003,3.9,unknown,"Es gab immer ganz viel Lego da, ganz viel altes Lego, mit dem ich bauen konnte."
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:00:28.450000,0 days 00:00:30.686000,M_25,male,22,2003,2.236,unknown,Und damit habe ich viel Zeit verbracht.
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:00:34.114000,0 days 00:00:39.166000,M_25,male,22,2003,5.052,unknown,haben wir dann zusammen gekocht. Einmal haben wir Sandwiches gemacht. Daran kann ich mich noch sehr gut erinnern.
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:00:39.746000,0 days 00:00:41.950000,M_25,male,22,2003,2.204,unknown,und die zusammen auf der
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:00:46.498000,0 days 00:00:51.422000,M_25,male,22,2003,4.924,unknown,Wii gespielt. Meine Großeltern hatten eine Wii und da gab es immer Mario Kart drauf. Das war
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:00:54.498000,0 days 00:00:57.790000,M_25,male,22,2003,3.292,unknown,Denn einen Tag habe ich auch den Rekord für eine Strecke gebrochen.
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:00:57.954000,0 days 00:01:00.702000,M_25,male,22,2003,2.748,unknown,Das war auf jeden Fall ein Highlight dieser Zeit.
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:01:00.898000,0 days 00:01:05.150000,M_25,male,22,2003,4.252,unknown,Ansonsten sind wir auch öfter zu meinen anderen Großeltern noch rübergefahren. Die hatten einen Pool.
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:01:07.138000,0 days 00:01:10.206000,M_25,male,22,2003,3.068,unknown,Dort bin ich dann sehr viel und lange baden gewesen.
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:01:10.690000,0 days 00:01:14.622000,M_25,male,22,2003,3.932,unknown,Manchmal sind wir auf den Spielplatz gegangen und...
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:01:16.450000,0 days 00:01:19.518000,M_25,male,22,2003,3.068,unknown,"Immer ein Highlight, weil er eine riesige, richtig lange Rutsche hatte."
+./data/neda/data/G_2003_M_25_st.wav,0 days 00:01:20.194000,0 days 00:01:23.006000,M_25,male,22,2003,2.8120000000000003,unknown,"Und man ist nicht sehr lange hingelaufen, aber..."
+./data/neda/data/G_1999_F_03_st.wav,0 days 00:00:00.994000,0 days 00:00:03.838000,F_03,female,26,1999,2.844,unknown,"Als ich ein kleines Mädchen war, sind wir..."
+./data/neda/data/G_1999_F_03_st.wav,0 days 00:00:05.538000,0 days 00:00:08.894000,F_03,female,26,1999,3.356,unknown,oft an den Urlapputzer an die Ostsee gefahren.
+./data/neda/data/G_1999_F_03_st.wav,0 days 00:00:13.090000,0 days 00:00:15.902000,F_03,female,26,1999,2.8120000000000003,unknown,Und da waren wir oft auf einem Campingplatz.
+./data/neda/data/G_1999_F_03_st.wav,0 days 00:00:27.106000,0 days 00:00:29.598000,F_03,female,26,1999,2.492,unknown,Haben uns dann da schön häuslich eingerichtet.
+./data/neda/data/G_1999_F_03_st.wav,0 days 00:00:31.522000,0 days 00:00:34.462000,F_03,female,26,1999,2.94,unknown,"Auf dem Campingplatz, das war immer derselbe."
+./data/neda/data/G_1999_F_03_st.wav,0 days 00:00:38.658000,0 days 00:00:40.670000,F_03,female,26,1999,2.012,unknown,An den kann ich mich sehr gut erinnern.
+./data/neda/data/G_1999_F_03_st.wav,0 days 00:00:43.298000,0 days 00:00:45.694000,F_03,female,26,1999,2.396,unknown,Da haben mein Bruder und ich immer viel Zeit verbracht.
+./data/neda/data/G_1999_F_03_st.wav,0 days 00:00:46.146000,0 days 00:00:49.598000,F_03,female,26,1999,3.452,unknown,"Und wenn wir nicht auf dem Spielplatz waren, dann waren wir am Strand."
+./data/neda/data/G_1999_F_03_st.wav,0 days 00:00:52.962000,0 days 00:00:56.318000,F_03,female,26,1999,3.356,unknown,gestrandete Quallen wieder zurück ins Wasser geworfen.
+./data/neda/data/G_1999_F_03_st.wav,0 days 00:00:58.114000,0 days 00:01:01.438000,F_03,female,26,1999,3.324,unknown,"Angespülte Algen auf Stöcke gewickelt, um..."
+./data/neda/data/G_1999_F_03_st.wav,0 days 00:01:01.826000,0 days 00:01:05.566000,F_03,female,26,1999,3.74,unknown,"Algen-Schaschlik daraus zu machen, so wie in dem Film Madagaskar."
+./data/neda/data/G_1999_F_03_st.wav,0 days 00:01:07.906000,0 days 00:01:10.462000,F_03,female,26,1999,2.556,unknown,Das haben mir dann meinen Eltern immer geschenkt.
+./data/neda/data/G_1999_F_03_st.wav,0 days 00:01:24.610000,0 days 00:01:29.630000,F_03,female,26,1999,5.02,unknown,Ich war viel öfter mit meinem Papa zusammen im Wasser als mit meiner Mama. Die saß immer lieber am Strand.
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:00:14.562000,0 days 00:00:16.702000,F_15,female,22,2003,2.14,unknown,dort das halbe Jahr über wohnen.
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:00:17.026000,0 days 00:00:19.390000,F_15,female,22,2003,2.364,unknown,In den Sommermonaten wohnen die in Schweden.
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:00:19.842000,0 days 00:00:22.334000,F_15,female,22,2003,2.492,unknown,Und in den Wintermonaten.
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:00:28.514000,0 days 00:00:30.622000,F_15,female,22,2003,2.108,unknown,Und es ist immer eine ganz große...
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:00:35.298000,0 days 00:00:41.662000,F_15,female,22,2003,6.364,unknown,"Ganz große Anreise, weil wir mit unserem Familienauto, was gar nicht so groß ist, in das wir aber alle zu fünft,"
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:00:41.954000,0 days 00:00:44.350000,F_15,female,22,2003,2.396,unknown,uns quetschen müssen und unseren ganzen Koffern.
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:00:46.818000,0 days 00:00:49.342000,F_15,female,22,2003,2.524,unknown,losfahren und wir fahren neben immer die Fähre.
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:00:51.714000,0 days 00:00:54.206000,F_15,female,22,2003,2.492,unknown,über die Ostsee und sind dann
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:00:59.426000,0 days 00:01:01.470000,F_15,female,22,2003,2.044,unknown,was ich ganz viel mit Schweden verbinde.
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:01:10.050000,0 days 00:01:16.350000,F_15,female,22,2003,6.3,unknown,"Und wir dann, es gibt auch immer Punkt 16 Uhr, dort sitzen im Garten und Kuchen essen."
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:01:17.954000,0 days 00:01:21.438000,F_15,female,22,2003,3.484,unknown,"Vor allem Erdbeerkuchen essen wir ganz viel, weil es in den Sommermonaten..."
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:01:21.826000,0 days 00:01:26.462000,F_15,female,22,2003,4.636,unknown,ganz viele Erdbeeren gibt in Schweden und die sind alle selbst gepflückt aus dem Garten von meinem Opa.
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:01:27.554000,0 days 00:01:30.430000,F_15,female,22,2003,2.876,unknown,Und anschließend gehen wir eigentlich immer.
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:01:35.906000,0 days 00:01:37.982000,F_15,female,22,2003,2.076,unknown,vom Haus meiner Großeltern entfernt ist.
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:01:47.426000,0 days 00:01:50.558000,F_15,female,22,2003,3.132,unknown,"Liegen wir dort, meine Schwestern und ich, und lesen irgendwas?"
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:01:53.826000,0 days 00:01:57.054000,F_15,female,22,2003,3.228,unknown,Und das sind total schöne Kindheitserinnerungen.
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:01:59.266000,0 days 00:02:03.454000,F_15,female,22,2003,4.188,unknown,"eigentlich immer noch haben, weil wir immer noch ziemlich regelmäßig nach Schweden fahren."
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:02:04.098000,0 days 00:02:06.206000,F_15,female,22,2003,2.108,unknown,"Und dort genau diese Tage, die..."
+./data/neda/data/G_2003_F_15_st.wav,0 days 00:02:06.690000,0 days 00:02:11.710000,F_15,female,22,2003,5.02,unknown,"so sehr einfach sind und wo man nicht wirklich was zu tun hat, sondern einfach nur vor sich hin."
+./data/neda/data/G_2005_F_30_st.wav,0 days 00:00:02.722000,0 days 00:00:07.870000,F_30,female,20,2005,5.148,unknown,In den Sommerferien bin ich mit meinen Eltern immer gerne an die Ostsee gefahren.
+./data/neda/data/G_2005_F_30_st.wav,0 days 00:00:10.178000,0 days 00:00:13.950000,F_30,female,20,2005,3.772,unknown,"oft mit meiner Cousine, das heißt, der Tochter von der..."
+./data/neda/data/G_2005_F_30_st.wav,0 days 00:00:16.994000,0 days 00:00:20.190000,F_30,female,20,2005,3.196,unknown,Und wir sind dann immer am Strand langgelaufen.
+./data/neda/data/G_2005_F_30_st.wav,0 days 00:00:20.354000,0 days 00:00:26.302000,F_30,female,20,2005,5.948,unknown,"und haben da Quallen gefunden und zurück ins Wasser gebracht, weil sie gestrandet sind."
+./data/neda/data/G_2005_F_30_st.wav,0 days 00:00:26.434000,0 days 00:00:31.454000,F_30,female,20,2005,5.02,unknown,Und an dem einen Nachmittag sind wir auch in einen Erlebnispark gefahren.
+./data/neda/data/G_2005_F_30_st.wav,0 days 00:00:34.210000,0 days 00:00:37.502000,F_30,female,20,2005,3.292,unknown,"Da gab es immer ganz tolle Rutschen, die wir gerne gerutscht sind."
+./data/neda/data/G_2005_F_30_st.wav,0 days 00:00:41.602000,0 days 00:00:49.438000,F_30,female,20,2005,7.836,unknown,"Früher haben wir das halt ziemlich gerne gemacht. Das ging irgendwie fünf bis zehn Jahre, wo wir immer regelmäßig an den selben Ort gefahren sind."
+./data/neda/data/G_2005_F_30_st.wav,0 days 00:00:49.634000,0 days 00:00:52.222000,F_30,female,20,2005,2.588,unknown,da sich sozusagen die ganze Familie getroffen hat.
+./data/neda/data/G_1998_M_04_st.wav,0 days 00:00:03.522000,0 days 00:00:06.206000,M_04,male,27,1998,2.684,unknown,"Kindheit. Ich weiß noch, dass ich einmal mit..."
+./data/neda/data/G_1998_M_04_st.wav,0 days 00:00:06.594000,0 days 00:00:09.406000,M_04,male,27,1998,2.8120000000000003,unknown,meiner Familie nach Schweden gefahren bin.
+./data/neda/data/G_1998_M_04_st.wav,0 days 00:00:10.050000,0 days 00:00:13.534000,M_04,male,27,1998,3.484,unknown,"Zentralschweden an irgendeinem See, ich weiß aber nicht mal."
+./data/neda/data/G_1998_M_04_st.wav,0 days 00:00:16.546000,0 days 00:00:20.126000,M_04,male,27,1998,3.58,unknown,Dort haben ich und mein Bruder sehr viel gespielt.
+./data/neda/data/G_1998_M_04_st.wav,0 days 00:00:29.058000,0 days 00:00:31.102000,M_04,male,27,1998,2.044,unknown,sondern mehr draußen Rad fahren.
+./data/neda/data/G_1998_M_04_st.wav,0 days 00:00:35.714000,0 days 00:00:39.038000,M_04,male,27,1998,3.324,unknown,"Karten haben wir auch gespielt, zum Beispiel Uno."
+./data/neda/data/G_1998_M_04_st.wav,0 days 00:00:44.226000,0 days 00:00:50.046000,M_04,male,27,1998,5.82,unknown,"Außerdem waren wir öfter auch bei meinen Großeltern, das haben wir dann verbunden, also als wir in Schweden waren."
+./data/neda/data/G_1998_M_04_st.wav,0 days 00:00:52.514000,0 days 00:00:55.518000,M_04,male,27,1998,3.004,unknown,Dort sind ja auch geritten. Meine Tante hat nämlich Pferde.
+./data/neda/data/G_1998_M_04_st.wav,0 days 00:00:59.266000,0 days 00:01:02.622000,M_04,male,27,1998,3.356,unknown,"Meine Großeltern haben uns aufgenommen, meine Oma hat..."
+./data/neda/data/G_1998_M_04_st.wav,0 days 00:01:12.258000,0 days 00:01:14.654000,M_04,male,27,1998,2.396,unknown,"Hat oft gemeckert, wenn wir das Licht angelassen haben."
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:00:08.802000,0 days 00:00:11.486000,M_14,male,24,2001,2.684,unknown,Ich war in den Sommerferien immer sehr viel...
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:00:13.602000,0 days 00:00:16.222000,M_14,male,24,2001,2.62,unknown,Also in einem ganz bestimmten Ferienlager. In Suhl ist das.
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:00:26.594000,0 days 00:00:29.086000,M_14,male,24,2001,2.492,unknown,war dann irgendwann auch da quasi bekannt als...
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:00:30.914000,0 days 00:00:34.270000,M_14,male,24,2001,3.356,unknown,"Immer dort war irgendwann schon so ein halber Betreuer, auch als ich noch Kind war quasi."
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:00:34.882000,0 days 00:00:36.958000,M_14,male,24,2001,2.076,unknown,Und da habe ich...
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:00:37.154000,0 days 00:00:39.166000,M_14,male,24,2001,2.012,unknown,"Genau, da haben wir alles Mögliche gemacht."
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:00:40.642000,0 days 00:00:44.414000,M_14,male,24,2001,3.772,unknown,"Ja, so ganz viel Outdoor-Kram vor allen Dingen, also so Zelte gebaut."
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:00:44.930000,0 days 00:00:47.230000,M_14,male,24,2001,2.3,unknown,"oder Biwax gebaut, wie man es eigentlich nennt."
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:00:47.906000,0 days 00:00:51.998000,M_14,male,24,2001,4.092,unknown,"haben Feuer gemacht, gelernt, wie man Feuer macht in der Natur, gelernt, wie man..."
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:01:12.418000,0 days 00:01:14.654000,M_14,male,24,2001,2.236,unknown,so Harry Potter gerollplayed wird von den...
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:01:15.554000,0 days 00:01:19.710000,M_14,male,24,2001,4.156,unknown,"Lehrern auch, also Lehrer heißen sie dann, obwohl sie die Betreuer sind, die dann quasi die verschiedenen Fächer unterrichten."
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:01:20.226000,0 days 00:01:23.102000,M_14,male,24,2001,2.876,unknown,"Und da gab es einmal eine Geschichte, wo..."
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:01:24.162000,0 days 00:01:28.382000,M_14,male,24,2001,4.22,unknown,"Ich war quasi immer bei den Todessern, also bei Slytherin und wir haben dann auch immer die Todesser gegründet."
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:01:28.962000,0 days 00:01:33.502000,M_14,male,24,2001,4.54,unknown,Und dann mussten wir einmal quasi die Orden des Phönix...
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:01:38.978000,0 days 00:01:41.886000,M_14,male,24,2001,2.908,unknown,Snape angegriffen haben und ihn irgendwie...
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:01:42.114000,0 days 00:01:45.150000,M_14,male,24,2001,3.036,unknown,mit Stupor geschockt haben und dann mussten wir ihn irgendwie
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:01:47.682000,0 days 00:01:50.206000,M_14,male,24,2001,2.524,unknown,haben es quasi irgendwo aus den Büschen beobachtet.
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:01:51.010000,0 days 00:01:54.654000,M_14,male,24,2001,3.644,unknown,Und sind dann zu ihm hingerannt und haben aus unserem Zauberbüchlein den Spruch zum Wiederbeleben.
+./data/neda/data/G_2001_M_14_st.wav,0 days 00:01:55.010000,0 days 00:01:57.374000,M_14,male,24,2001,2.364,unknown,rausgesucht und ihn dann wiederbelebt. Und das war...
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:00:02.018000,0 days 00:00:05.982000,M_20,male,23,2002,3.964,unknown,"Also genau, okay. Ich weiß nicht mehr genau, wann das war. Ich glaube, das war so ein..."
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:00:08.802000,0 days 00:00:10.814000,M_20,male,23,2002,2.012,unknown,für mich als Kind in den Sommerfällen oder einfach so ein
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:00:11.170000,0 days 00:00:14.238000,M_20,male,23,2002,3.068,unknown,Vielleicht ist es auch mehr so ein Vibe jetzt als eine konkrete Geschichte.
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:00:14.978000,0 days 00:00:18.206000,M_20,male,23,2002,3.228,unknown,"Vorneweg muss man wissen, dass meine Eltern"
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:00:23.938000,0 days 00:00:27.934000,M_20,male,23,2002,3.996,unknown,"Und deswegen haben sie halt im Sommer, waren sie eigentlich immer arbeiten so und waren nicht so viel zu Hause."
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:00:30.850000,0 days 00:00:34.718000,M_20,male,23,2002,3.868,unknown,"oft so ein Vibe, also sie haben meistens zusammen gefrühstückt und meine Eltern sind erst so um zehn in den..."
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:00:34.818000,0 days 00:00:37.118000,M_20,male,23,2002,2.3,unknown,"in den Eisladen oder in die Eisläden gegangen, um zu arbeiten."
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:00:38.530000,0 days 00:00:42.590000,M_20,male,23,2002,4.06,unknown,"Und genau, also früher haben wir eigentlich immer zusammen gefrühstückt und dann waren meine Schwester und ich meistens alle ins Hause."
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:00:43.362000,0 days 00:00:47.070000,M_20,male,23,2002,3.708,unknown,"Dann haben wir meistens ein bisschen rumgedaddelt, vielleicht Fernsehen geguckt oder so."
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:00:48.738000,0 days 00:00:51.550000,M_20,male,23,2002,2.8120000000000003,unknown,Wir haben sehr viel Phineas und Ferb und Gravity Falls geguckt.
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:00:52.066000,0 days 00:00:54.590000,M_20,male,23,2002,2.524,unknown,"So unsere Serien, die wir ins Kind geschaut haben."
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:00:57.474000,0 days 00:01:02.878000,M_20,male,23,2002,5.404,unknown,"Und dann, ich weiß nicht, dass es einfach so oft passiert, dass ich auch so diesen Weg so richtig, so vividly..."
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:01:08.098000,0 days 00:01:10.622000,M_20,male,23,2002,2.524,unknown,Genauso wie wir zum Eisladen gegangen sind. Also es gab so...
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:01:10.722000,0 days 00:01:12.734000,M_20,male,23,2002,2.012,unknown,Zu Hochzeiten gab es vier verschiedene Eisläden.
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:01:14.562000,0 days 00:01:21.310000,M_20,male,23,2002,6.748,unknown,"Das war immer so ein Ding, dass Elner und ich so gesagt haben, wo ist Mama heute, wo ist Papa heute, zu welchem Eisladen wollen wir hingehen?"
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:01:23.170000,0 days 00:01:26.142000,M_20,male,23,2002,2.972,unknown,"bin ich zu dem Eisland in Trotha gefahren, weil..."
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:01:26.530000,0 days 00:01:28.702000,M_20,male,23,2002,2.172,unknown,Das war so ringsherum einfach so ein bisschen schöner.
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:01:30.146000,0 days 00:01:32.414000,M_20,male,23,2002,2.268,unknown,"Ja, ich glaube, es ist einfach die schönste Location quasi."
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:01:38.466000,0 days 00:01:40.862000,M_20,male,23,2002,2.396,unknown,"Wahrscheinlich immer so gegen 14 Uhr, 15 Uhr oder so."
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:01:45.250000,0 days 00:01:49.022000,M_20,male,23,2002,3.772,unknown,zur Pfarrstraße gefahren und sind wir hintergelaufen in die Mürzecher Straße und da war dann der Eisladen.
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:01:53.218000,0 days 00:01:58.078000,M_20,male,23,2002,4.86,unknown,"Wenn es nicht so voll war, dann sind wir nach hinten gegangen, hinter die Theke und haben uns selber unser Eis gemacht."
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:01:58.818000,0 days 00:02:02.270000,M_20,male,23,2002,3.452,unknown,"Und ich bin da immer ganz groß Fan davon, so eine Kugel Schoko-Eis zu nehmen."
+./data/neda/data/G_2002_M_20_st.wav,0 days 00:02:04.866000,0 days 00:02:09.982000,M_20,male,23,2002,5.116,unknown,"exorbitante Mengen so Karamellsoße und Schokoladensoße drauf zu machen und ganz, ganz viel Krokant."
