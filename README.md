@@ -67,3 +67,7 @@ python -m nkululeko.predict --config experiments/essv26_emotionalportrayal/tag_d
 targets = ['textclassification']
 textclassifier.candidates = ["happy", "angry", "sad", "scared", "neutral"]
 ```
+
+## 8: merge the results
+* I used the *merge_predictions.py* script to merge acoustic and linguistic expression prediction into one dataframe
+* it's named *segmented_combined.csv*
